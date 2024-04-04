@@ -33,10 +33,11 @@
 
     let periodArray = [];
     let selectedPeriod;
-    let periodStartDate = new Date("February 18, 2024 00:00:00");
+    let periodStartDate = new Date("March 1, 2024 00:00:00");
     let nextPeriod = new Date(periodStartDate.getTime());
     
-    let tempNextDate = new Date(periodStartDate.getTime() + (13*24*60*60*1000));
+    let tempNextDate = new Date("March 1, 2024 00:00:00");
+    tempNextDate.setMonth(tempNextDate.getMonth() + 1);
 
     periodArray.push({
         date: periodStartDate,
@@ -45,8 +46,8 @@
         name: periodStartDate.toLocaleDateString('en-US') + " - " + tempNextDate.toLocaleDateString('en-US'),
     });
     while (nextPeriod < currentDate) {
-        nextPeriod = new Date(nextPeriod.getTime() + (14*24*60*60*1000));
-        tempNextDate = new Date(nextPeriod.getTime() + (13*24*60*60*1000));
+        nextPeriod.setMonth(nextPeriod.getMonth()+1);
+        tempNextDate.setMonth(nextPeriod.getMonth()+1);
         periodArray.push({
             date: nextPeriod,
             ISODate: nextPeriod.toISOString().slice(0, -5),
@@ -205,12 +206,12 @@
 
 <div class="container">
 
-<Heading tag='h1'>Hours Dashboard</Heading>
+<Heading tag='h1'>Insurance Report Dashboard</Heading>
 
 <Hr />
 
 <Label>
-    Select Pay Period
+    Select Time Period
     
     <Select class="mt-2" on:change={() => {calculate()}} items={periodArray} bind:value={selectedPeriod} />
 </Label>

@@ -94,7 +94,7 @@ export const load = async () => {
             } catch (e) {
                 console.error("concatination error: " + e);
 
-                return {  };
+                return {"":""};
             }
 
         }
