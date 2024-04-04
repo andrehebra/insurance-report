@@ -31,13 +31,26 @@
     const currentDate = new Date();
     let instructorList = [];
 
+    let aircraftList = [];
+    let validCallsigns = [
+        "N55294",
+        "N55296",
+        "N55297",
+        "N345FH",
+        "N62770",
+        "N422CB",
+        "N945MC",
+        "N977TH",
+    ]
+
     let periodArray = [];
     let selectedPeriod;
     let periodStartDate = new Date("March 1, 2024 00:00:00");
     let nextPeriod = new Date(periodStartDate.getTime());
     
     let tempNextDate = new Date("March 1, 2024 00:00:00");
-    tempNextDate.setMonth(tempNextDate.getMonth() + 1);
+    tempNextDate.setMonth(tempNextDate.getMonth() + 1, 0);
+    //tempNextDate.setDate(tempNextDate.getDate() - 1);
 
     periodArray.push({
         date: periodStartDate,
@@ -47,9 +60,12 @@
     });
     while (nextPeriod < currentDate) {
         nextPeriod.setMonth(nextPeriod.getMonth()+1);
-        tempNextDate.setMonth(nextPeriod.getMonth()+1);
+        tempNextDate.setMonth(nextPeriod.getMonth()+1, 0);
+        tempNextDate.setFullYear(nextPeriod.getFullYear());
         periodArray.push({
             date: nextPeriod,
+            endDate: tempNextDate,
+            ISOEndDate: tempNextDate.toISOString().slice(0,-5),
             ISODate: nextPeriod.toISOString().slice(0, -5),
             value: nextPeriod.toISOString().slice(0, -5),
             name: nextPeriod.toLocaleDateString('en-US') + " - " + tempNextDate.toLocaleDateString('en-US'),
@@ -78,6 +94,72 @@
     }
 
     function calculate() {
+        filled = true;
+        aircraftList.splice(0,aircraftList.length);
+
+        let beginDate = new Date(selectedPeriod);
+        let endDate = new Date(beginDate.getTime());
+        endDate.setMonth(endDate.getMonth() + 1, 0);
+
+        let beginPeriod = beginDate.toISOString().slice(0, -5);
+        let endPeriod = endDate.toISOString().slice(0, -5);
+
+        for (let i = 0; i < dataArray.length; i++) {
+            if (dataArray[i].aircraft != null) {
+                if (dataArray[i].registration != null) {
+                    if (dataArray[i].registration.flights[0] != null && dataArray[i].registration.flights[0].primaryLog.finishSeconds != null && dataArray[i].registration.flights[0].primaryLog.startSeconds != null) {
+                        //console.log(dataArray[i]);
+                        //check to see if callsign is included in the aircraft list already
+                        let caught = false;
+                        for (let j = 0; j < aircraftList.length; j++) {
+                            if (aircraftList[j].callsign == dataArray[i].aircraft.callSign) {
+                                caught = true;
+                                
+                                //add into list at correct position if meet criteria
+                                if (dataArray[i].registration.flights[0].primaryLog.startsAt > beginPeriod && dataArray[i].registration.flights[0].primaryLog.startSeconds < aircraftList[j].beginningSeconds) {
+                                    aircraftList[j].beginningSeconds = dataArray[i].registration.flights[0].primaryLog.startSeconds;
+                                }
+                                if (dataArray[i].registration.flights[0].primaryLog.endsAt < endPeriod && dataArray[i].registration.flights[0].primaryLog.finishSeconds > aircraftList[j].endingSeconds) {
+                                    aircraftList[j].endingSeconds = dataArray[i].registration.flights[0].primaryLog.finishSeconds;
+                                }
+                            }
+
+                            
+                        }
+
+                        //create new element in the aircraftList if it is a valid entry
+                        if (caught == false && validCallsigns.includes(dataArray[i].aircraft.callSign)) {
+
+                            let begin = 10000000000000;
+                            let end = 0;
+
+                            console.log(beginPeriod + " " + dataArray[i].registration.flights[0].primaryLog.startsAt);
+                            if (dataArray[i].registration.flights[0].primaryLog.startsAt > beginPeriod) {
+                                begin = dataArray[i].registration.flights[0].primaryLog.startSeconds;
+                            }
+                            if (dataArray[i].registration.flights[0].primaryLog.endsAt < endPeriod) {
+                                end = dataArray[i].registration.flights[0].primaryLog.finishSeconds;
+                            }
+
+                            aircraftList.push({
+                                callsign: dataArray[i].aircraft.callSign,
+                                beginningSeconds: begin,
+                                endingSeconds: end,
+                            });
+                        }
+                    }
+                }
+            }
+            
+        }
+
+        console.log(aircraftList);
+
+        aircraftList = aircraftList;
+        
+    }
+
+    function calculate2() {
 
         instructorList.splice(0,instructorList.length);
 
@@ -230,20 +312,22 @@
 <div class="padding"></div>
 <Table hoverable={true} shadow>
     <TableHead>
-        <TableHeadCell>Instructor</TableHeadCell>
+        <TableHeadCell>Aircraft</TableHeadCell>
         <!--  <TableHeadCell>Briefing</TableHeadCell>
         <TableHeadCell>Flight</TableHeadCell>
         <TableHeadCell>Debfiefing</TableHeadCell> -->
-        <TableHeadCell>Total</TableHeadCell>
+        <TableHeadCell>Hobbs Start</TableHeadCell>
+        <TableHeadCell>Hobbs End</TableHeadCell>
     </TableHead>
     <TableBody>
-        {#each instructorList as instructor}
+        {#each aircraftList as aircraft}
             <TableBodyRow>
-                <TableBodyCell>{instructor.firstName} {instructor.lastName}</TableBodyCell>
+                <TableBodyCell>{aircraft.callsign}</TableBodyCell>
                 <!--  <TableBodyCell>{instructor.briefingSeconds / 60 / 60}</TableBodyCell>
                 <TableBodyCell>{instructor.totalSeconds / 60 / 60}</TableBodyCell>
                 <TableBodyCell>{instructor.debriefingSeconds / 60 / 60}</TableBodyCell> -->
-                <TableBodyCell>{(instructor.debriefingSeconds + instructor.totalSeconds + instructor.briefingSeconds) / 60 / 60}</TableBodyCell>
+                <TableBodyCell>{aircraft.beginningSeconds / 60 / 60}</TableBodyCell>
+                <TableBodyCell>{aircraft.endingSeconds / 60 / 60}</TableBodyCell>
             </TableBodyRow>
         {/each}
     </TableBody>
