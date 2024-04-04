@@ -114,7 +114,7 @@
                         //check to see if callsign is included in the aircraft list already
                         let caught = false;
                         for (let j = 0; j < aircraftList.length; j++) {
-                            if (aircraftList[j].callsign == dataArray[i].aircraft.callSign) {
+                            if (aircraftList[j].callsign == dataArray[i].registration.flights[0].aircraft.callSign) {
                                 caught = true;
                                 
                                 //add into list at correct position if meet criteria
@@ -130,7 +130,7 @@
                         }
 
                         //create new element in the aircraftList if it is a valid entry
-                        if (caught == false && validCallsigns.includes(dataArray[i].aircraft.callSign)) {
+                        if (caught == false && validCallsigns.includes(dataArray[i].registration.flights[0].aircraft.callSign)) {
 
                             let begin = 10000000000000;
                             let end = 0;
@@ -144,7 +144,7 @@
                             }
 
                             aircraftList.push({
-                                callsign: dataArray[i].aircraft.callSign,
+                                callsign: dataArray[i].registration.flights[0].aircraft.callSign,
                                 beginningSeconds: begin,
                                 endingSeconds: end,
                             });

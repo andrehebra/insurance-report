@@ -17,6 +17,9 @@ const query = `query Query($all: Boolean, $after: String, $to: DateTime) {
               startsAt
               endsAt
             }
+            aircraft {
+              callSign
+            }
           }
         }
         aircraft {
