@@ -26,6 +26,24 @@ const query = `query Query($all: Boolean, $after: String, $to: DateTime) {
           callSign
         }
       }
+      ... on RentalBooking {
+        registration {
+          flights {
+            primaryLog {
+              startSeconds
+              finishSeconds
+              startsAt
+              endsAt
+            }
+            aircraft {
+              callSign
+            }
+          }
+        }
+        aircraft {
+          callSign
+        }
+      }
     }
     pageInfo {
       endCursor
