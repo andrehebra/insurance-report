@@ -5,41 +5,30 @@ import { print } from 'graphql';
 
 import { error } from '@sveltejs/kit';
 
-const query = `query Bookings($all: Boolean, $after: String, $to: DateTime) {
-    bookings(all: $all, after: $after, to: $to) {
-      pageInfo {
-        endCursor
-        hasNextPage
-      }
-      nodes {
-        ... on SingleStudentBooking {
-          startsAt
-          endsAt
-          instructor {
-            firstName
-            lastName
-          }
-          registration {
-            briefingSeconds
-            totalSeconds
-            debriefingSeconds
+const query = `query Query($all: Boolean, $after: String, $to: DateTime) {
+  bookings(all: $all, after: $after, to: $to) {
+    nodes {
+      ... on SingleStudentBooking {
+        registration {
+          flights {
+            primaryLog {
+              startSeconds
+              finishSeconds
+              startsAt
+              endsAt
+            }
           }
         }
-        ... on MultiStudentBooking {
-          startsAt
-          endsAt
-          instructor {
-            firstName
-            lastName
-          }
-          registrations {
-            briefingSeconds
-            totalSeconds
-            debriefingSeconds
-          }
+        aircraft {
+          callSign
         }
       }
     }
+    pageInfo {
+      endCursor
+      hasNextPage
+    }
+  }
   }`;
 
 let currentDate = new Date();
@@ -109,6 +98,8 @@ export const load = async () => {
             }
 
         }
+
+        console.log (dataArray);
 
         return { dataArray };
     } catch (error) {
