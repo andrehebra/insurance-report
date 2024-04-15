@@ -10,6 +10,8 @@
 
     import { browser } from '$app/environment';
 
+    import * as XLSX from 'xlsx/xlsx.mjs';
+
     export let data;
 
     let firstName = "";
@@ -160,6 +162,15 @@
         aircraftList = aircraftList;
         
     }
+
+    function downloadExcelFile() {
+        console.log("running download function");
+        let table_elt = document.getElementById("table");
+
+        let workbook = XLSX.utils.table_to_book(table_elt);
+
+        XLSX.writeFile(workbook, "Report.xlsb");
+    }
     
 </script>
 
@@ -191,8 +202,9 @@
 
 
 <Heading tag='h2'>Hobbs Hours Per Aircraft</Heading>
+<Button on:click={() => {downloadExcelFile()}}>Download Excel File</Button>
 <div class="padding"></div>
-<Table hoverable={true} shadow>
+<Table id="table" hoverable={true} shadow>
     <TableHead>
         <TableHeadCell>Aircraft</TableHeadCell>
         <!--  <TableHeadCell>Briefing</TableHeadCell>

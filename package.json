@@ -28,8 +28,11 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"exceljs": "^4.4.0",
 		"graphql": "^16.8.1",
 		"graphql-tag": "^2.12.6",
-		"svelte-routing": "^2.12.0"
+		"svelte-routing": "^2.12.0",
+		"write-excel-file": "^1.4.30",
+		"xlsx": "^0.18.5"
 	}
 }
