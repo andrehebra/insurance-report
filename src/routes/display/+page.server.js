@@ -5,8 +5,8 @@ import { print } from 'graphql';
 
 import { error } from '@sveltejs/kit';
 
-const query = `query Query($all: Boolean, $after: String, $to: DateTime) {
-  bookings(all: $all, after: $after, to: $to) {
+const query = `query Query($all: Boolean, $after: String, $to: DateTime, $from: DateTime) {
+  bookings(all: $all, after: $after, to: $to, from: $from) {
     nodes {
       ... on SingleStudentBooking {
         registration {
@@ -53,6 +53,8 @@ const query = `query Query($all: Boolean, $after: String, $to: DateTime) {
   }`;
 
 let currentDate = new Date();
+let startDate = new Date(currentDate);
+startDate.setDate(startDate.getDate() - 65);
 
 //console.log(currentDate);
 //const pastDate = new Date(); 
@@ -60,6 +62,7 @@ let currentDate = new Date();
 //console.log(pastDate);
 
 const currentISODate = currentDate.toISOString().slice(0, -5);
+const startISODate = startDate.toISOString().slice(0, -5);
 
 export const load = async () => {
     console.log('Load function called in page.server.js');
@@ -67,6 +70,7 @@ export const load = async () => {
         const variables = {
             to: currentISODate,
             all: true,
+            from: startISODate,
         };
 
         const response = await fetch('https://api.flightlogger.net/graphql', {
@@ -90,6 +94,7 @@ export const load = async () => {
                 all: true,
                 to: currentISODate,
                 after: data.data.bookings.pageInfo.endCursor,
+                from: startISODate,
             }
 
             const response = await fetch('https://api.flightlogger.net/graphql', {

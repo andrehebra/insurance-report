@@ -11,6 +11,7 @@
     import { browser } from '$app/environment';
 
     import * as XLSX from 'xlsx/xlsx.mjs';
+	import { isConstValueNode } from 'graphql';
 
     export let data;
 
@@ -102,17 +103,19 @@
         let beginDate = new Date(selectedPeriod);
         let endDate = new Date(beginDate.getTime());
         endDate.setMonth(endDate.getMonth() + 1, 0);
+        endDate.setDate(endDate.getDate() + 1);
+        console.log("END DATE: " + endDate);
 
         let beginPeriod = beginDate.toISOString().slice(0, -5);
         let endPeriod = endDate.toISOString().slice(0, -5);
 
-        console.log(dataArray);
+        //console.log(dataArray);
 
         for (let i = 0; i < dataArray.length; i++) {
             if (dataArray[i].aircraft != null) {
                 if (dataArray[i].registration != null) {
                     if (dataArray[i].registration.flights[0] != null && dataArray[i].registration.flights[0].primaryLog.finishSeconds != null && dataArray[i].registration.flights[0].primaryLog.startSeconds != null) {
-                        console.log(dataArray[i].registration.flights[0].aircraft.callSign + " " + dataArray[i].registration.flights[0].primaryLog.finishSeconds/60/60 + "\nlogged start time: \n" + dataArray[i].registration.flights[0].primaryLog.startsAt + "\nSet begin Period:  " + beginPeriod)
+                        //console.log(dataArray[i].registration.flights[0].aircraft.callSign + " " + dataArray[i].registration.flights[0].primaryLog.finishSeconds/60/60 + "\nlogged start time: \n" + dataArray[i].registration.flights[0].primaryLog.startsAt + "\nSet begin Period:  " + beginPeriod)
                         //check to see if callsign is included in the aircraft list already
                         let caught = false;
                         for (let j = 0; j < aircraftList.length; j++) {
@@ -122,10 +125,12 @@
                                 //add into list at correct position if meet criteria
                                 if (dataArray[i].registration.flights[0].primaryLog.startsAt < beginPeriod && dataArray[i].registration.flights[0].primaryLog.finishSeconds > aircraftList[j].beginningSeconds) {
                                     aircraftList[j].beginningSeconds = dataArray[i].registration.flights[0].primaryLog.finishSeconds;
-                                    console.log(dataArray[i].registration.flights[0].aircraft.callSign + " " + dataArray[i].registration.flights[0].primaryLog.finishSeconds/60/60 + "\nlogged start time: \n" + dataArray[i].registration.flights[0].primaryLog.startsAt + "\nSet begin Period:  " + beginPeriod)
+                                    //console.log(dataArray[i].registration.flights[0].aircraft.callSign + " " + dataArray[i].registration.flights[0].primaryLog.finishSeconds/60/60 + "\nlogged start time: \n" + dataArray[i].registration.flights[0].primaryLog.startsAt + "\nSet begin Period:  " + beginPeriod)
                                 }
                                 if (dataArray[i].registration.flights[0].primaryLog.endsAt < endPeriod && dataArray[i].registration.flights[0].primaryLog.finishSeconds > aircraftList[j].endingSeconds) {
                                     aircraftList[j].endingSeconds = dataArray[i].registration.flights[0].primaryLog.finishSeconds;
+                                    //aircraftList[j].reservationList.push(dataArray[i].registration.flights[0].primaryLog);
+                                    
                                 }
                             }
 
@@ -150,6 +155,7 @@
                                 callsign: dataArray[i].registration.flights[0].aircraft.callSign,
                                 beginningSeconds: begin,
                                 endingSeconds: end,
+                                reservationList: [],
                             });
                         }
                     }
