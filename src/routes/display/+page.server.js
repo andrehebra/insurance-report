@@ -54,7 +54,7 @@ const query = `query Query($all: Boolean, $after: String, $to: DateTime, $from: 
 
 let currentDate = new Date();
 let startDate = new Date(currentDate);
-startDate.setDate(startDate.getDate() - 65);
+startDate.setDate(startDate.getDate() - 62);
 
 //console.log(currentDate);
 //const pastDate = new Date(); 
@@ -109,10 +109,14 @@ export const load = async () => {
                 })
             });
 
-            console.log(data.data.bookings.pageInfo.hasNextPage);
+            //console.log(data.data.bookings.pageInfo.hasNextPage); 
+            
 
             data = await response.json();
+            console.log("hello"); 
+            console.log(data);
             try {
+
                 for (let i = 0; i < data.data.bookings.nodes.length; i++) {
                     //console.log(data.data.bookings.nodes);
                     dataArray.push(data.data.bookings.nodes[i]);
