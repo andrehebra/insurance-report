@@ -1,3 +1,4 @@
+/*
 import { API_KEY } from '$env/static/private';
 
 import gql from 'graphql-tag';
@@ -129,10 +130,11 @@ export const load = async () => {
 
         }
 
-        console.log (dataArray);
+        //console.log (dataArray);
 
         return { dataArray };
     } catch (error) {
         console.error(`Error in load function :( ${error}`);
-    }
+    } 
 }
+*/
