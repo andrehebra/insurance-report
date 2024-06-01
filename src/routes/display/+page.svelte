@@ -29,8 +29,24731 @@
     // REMOVED
     //let dataArray = [...data.dataArray];
     
-
+    
     let dataArray = [
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1484640,
+                            "finishSeconds": 1493280,
+                            "startsAt": "2024-02-22T14:54:00Z",
+                            "endsAt": "2024-02-22T17:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-22T16:06:00Z",
+                            "endsAt": "2024-02-22T17:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-22T15:12:00Z",
+                            "endsAt": "2024-02-22T17:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19341360,
+                            "finishSeconds": 19348560,
+                            "startsAt": "2024-02-22T15:54:00Z",
+                            "endsAt": "2024-02-22T17:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24513120,
+                            "finishSeconds": 24517800,
+                            "startsAt": "2024-02-22T16:06:00Z",
+                            "endsAt": "2024-02-22T17:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 18927000,
+                            "finishSeconds": 18931680,
+                            "startsAt": "2024-02-22T16:06:00Z",
+                            "endsAt": "2024-02-22T17:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1118880,
+                            "finishSeconds": 1123920,
+                            "startsAt": "2024-02-22T16:00:00Z",
+                            "endsAt": "2024-02-22T17:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-22T17:00:00Z",
+                            "endsAt": "2024-02-22T18:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19151640,
+                            "finishSeconds": 19159560,
+                            "startsAt": "2024-02-22T16:48:00Z",
+                            "endsAt": "2024-02-22T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1493280,
+                            "finishSeconds": 1502640,
+                            "startsAt": "2024-02-22T18:06:00Z",
+                            "endsAt": "2024-02-22T20:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-22T18:00:00Z",
+                            "endsAt": "2024-02-22T19:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 18931680,
+                            "finishSeconds": 18937440,
+                            "startsAt": "2024-02-22T18:12:00Z",
+                            "endsAt": "2024-02-22T19:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-22T18:18:00Z",
+                            "endsAt": "2024-02-22T21:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1123920,
+                            "finishSeconds": 1123920,
+                            "startsAt": "2024-02-22T19:00:00Z",
+                            "endsAt": "2024-02-22T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24517800,
+                            "finishSeconds": 24523920,
+                            "startsAt": "2024-02-22T20:00:00Z",
+                            "endsAt": "2024-02-22T21:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19348560,
+                            "finishSeconds": 19353600,
+                            "startsAt": "2024-02-22T20:12:00Z",
+                            "endsAt": "2024-02-22T21:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-22T20:00:00Z",
+                            "endsAt": "2024-02-22T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1503000,
+                            "finishSeconds": 1507680,
+                            "startsAt": "2024-02-22T21:00:00Z",
+                            "endsAt": "2024-02-22T22:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20426040,
+                            "finishSeconds": 20442960,
+                            "startsAt": "2024-02-22T20:18:00Z",
+                            "endsAt": "2024-02-23T01:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-22T21:18:00Z",
+                            "endsAt": "2024-02-22T22:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1123920,
+                            "finishSeconds": 1127880,
+                            "startsAt": "2024-02-22T22:00:00Z",
+                            "endsAt": "2024-02-22T23:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-22T22:30:00Z",
+                            "endsAt": "2024-02-23T00:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19159560,
+                            "finishSeconds": 19168200,
+                            "startsAt": "2024-02-22T22:00:00Z",
+                            "endsAt": "2024-02-23T00:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20442960,
+                            "finishSeconds": 20448360,
+                            "startsAt": "2024-02-23T11:42:00Z",
+                            "endsAt": "2024-02-23T13:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24523920,
+                            "finishSeconds": 24528960,
+                            "startsAt": "2024-02-23T12:00:00Z",
+                            "endsAt": "2024-02-23T13:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T13:18:00Z",
+                            "endsAt": "2024-02-23T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T14:06:00Z",
+                            "endsAt": "2024-02-23T15:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1127880,
+                            "finishSeconds": 1133280,
+                            "startsAt": "2024-02-23T14:30:00Z",
+                            "endsAt": "2024-02-23T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T14:18:00Z",
+                            "endsAt": "2024-02-23T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T14:24:00Z",
+                            "endsAt": "2024-02-23T15:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T15:06:00Z",
+                            "endsAt": "2024-02-23T16:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T16:24:00Z",
+                            "endsAt": "2024-02-23T17:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1133640,
+                            "finishSeconds": 1139400,
+                            "startsAt": "2024-02-23T16:00:00Z",
+                            "endsAt": "2024-02-23T17:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T16:06:00Z",
+                            "endsAt": "2024-02-23T17:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T18:00:00Z",
+                            "endsAt": "2024-02-23T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T19:00:00Z",
+                            "endsAt": "2024-02-23T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1139400,
+                            "finishSeconds": 1141200,
+                            "startsAt": "2024-02-23T18:00:00Z",
+                            "endsAt": "2024-02-23T18:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T18:00:00Z",
+                            "endsAt": "2024-02-23T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T18:06:00Z",
+                            "endsAt": "2024-02-23T19:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T18:06:00Z",
+                            "endsAt": "2024-02-23T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T20:00:00Z",
+                            "endsAt": "2024-02-23T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T18:18:00Z",
+                            "endsAt": "2024-02-23T18:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T19:06:00Z",
+                            "endsAt": "2024-02-23T21:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1140840,
+                            "finishSeconds": 1146600,
+                            "startsAt": "2024-02-23T20:00:00Z",
+                            "endsAt": "2024-02-23T21:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T20:00:00Z",
+                            "endsAt": "2024-02-23T20:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T21:00:00Z",
+                            "endsAt": "2024-02-23T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T20:00:00Z",
+                            "endsAt": "2024-02-23T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T19:24:00Z",
+                            "endsAt": "2024-02-23T21:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T21:36:00Z",
+                            "endsAt": "2024-02-23T21:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1146600,
+                            "finishSeconds": 1152720,
+                            "startsAt": "2024-02-23T22:00:00Z",
+                            "endsAt": "2024-02-23T23:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-23T23:00:00Z",
+                            "endsAt": "2024-02-24T00:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24528960,
+                            "finishSeconds": 24534720,
+                            "startsAt": "2024-02-24T11:54:00Z",
+                            "endsAt": "2024-02-24T13:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20448360,
+                            "finishSeconds": 20453760,
+                            "startsAt": "2024-02-24T11:48:00Z",
+                            "endsAt": "2024-02-24T13:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19353600,
+                            "finishSeconds": 19361160,
+                            "startsAt": "2024-02-24T11:48:00Z",
+                            "endsAt": "2024-02-24T13:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42077160,
+                            "finishSeconds": 42080040,
+                            "startsAt": "2024-02-24T14:18:00Z",
+                            "endsAt": "2024-02-24T15:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1507680,
+                            "finishSeconds": 1514160,
+                            "startsAt": "2024-02-24T13:48:00Z",
+                            "endsAt": "2024-02-24T15:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T14:00:00Z",
+                            "endsAt": "2024-02-24T15:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T15:00:00Z",
+                            "endsAt": "2024-02-24T15:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T14:00:00Z",
+                            "endsAt": "2024-02-24T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T15:54:00Z",
+                            "endsAt": "2024-02-24T15:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1152720,
+                            "finishSeconds": 1158480,
+                            "startsAt": "2024-02-24T14:00:00Z",
+                            "endsAt": "2024-02-24T15:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42080040,
+                            "finishSeconds": 42084720,
+                            "startsAt": "2024-02-24T14:36:00Z",
+                            "endsAt": "2024-02-24T15:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T16:00:00Z",
+                            "endsAt": "2024-02-24T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T16:00:00Z",
+                            "endsAt": "2024-02-24T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19168200,
+                            "finishSeconds": 19172520,
+                            "startsAt": "2024-02-24T15:48:00Z",
+                            "endsAt": "2024-02-24T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T16:00:00Z",
+                            "endsAt": "2024-02-24T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1158480,
+                            "finishSeconds": 1163160,
+                            "startsAt": "2024-02-24T16:00:00Z",
+                            "endsAt": "2024-02-24T17:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T16:30:00Z",
+                            "endsAt": "2024-02-24T16:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T17:00:00Z",
+                            "endsAt": "2024-02-24T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T17:00:00Z",
+                            "endsAt": "2024-02-24T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T18:00:00Z",
+                            "endsAt": "2024-02-24T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": 0,
+                            "startsAt": "2024-02-24T18:00:00Z",
+                            "endsAt": "2024-02-24T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird TD2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird TD2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T19:00:00Z",
+                            "endsAt": "2024-02-24T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1163160,
+                            "finishSeconds": 1165680,
+                            "startsAt": "2024-02-24T18:00:00Z",
+                            "endsAt": "2024-02-24T18:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T19:00:00Z",
+                            "endsAt": "2024-02-24T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T18:00:00Z",
+                            "endsAt": "2024-02-24T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1165680,
+                            "finishSeconds": 1171440,
+                            "startsAt": "2024-02-24T19:00:00Z",
+                            "endsAt": "2024-02-24T20:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T20:00:00Z",
+                            "endsAt": "2024-02-24T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T21:00:00Z",
+                            "endsAt": "2024-02-24T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T20:00:00Z",
+                            "endsAt": "2024-02-24T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-24T21:00:00Z",
+                            "endsAt": "2024-02-24T22:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20453760,
+                            "finishSeconds": 20461680,
+                            "startsAt": "2024-02-25T00:00:00Z",
+                            "endsAt": "2024-02-25T02:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42084720,
+                            "finishSeconds": 42092280,
+                            "startsAt": "2024-02-25T00:00:00Z",
+                            "endsAt": "2024-02-25T02:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24534720,
+                            "finishSeconds": 24541920,
+                            "startsAt": "2024-02-25T12:30:00Z",
+                            "endsAt": "2024-02-25T14:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 18937440,
+                            "finishSeconds": 18943200,
+                            "startsAt": "2024-02-25T11:48:00Z",
+                            "endsAt": "2024-02-25T13:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19172520,
+                            "finishSeconds": 19178640,
+                            "startsAt": "2024-02-25T11:42:00Z",
+                            "endsAt": "2024-02-25T13:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42092280,
+                            "finishSeconds": 42099840,
+                            "startsAt": "2024-02-25T11:42:00Z",
+                            "endsAt": "2024-02-25T13:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19361160,
+                            "finishSeconds": 19366200,
+                            "startsAt": "2024-02-25T11:42:00Z",
+                            "endsAt": "2024-02-25T13:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1514160,
+                            "finishSeconds": 1520640,
+                            "startsAt": "2024-02-25T13:00:00Z",
+                            "endsAt": "2024-02-25T14:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20461680,
+                            "finishSeconds": 20466720,
+                            "startsAt": "2024-02-25T12:48:00Z",
+                            "endsAt": "2024-02-25T14:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 18943200,
+                            "finishSeconds": 18948600,
+                            "startsAt": "2024-02-25T14:00:00Z",
+                            "endsAt": "2024-02-25T15:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19366200,
+                            "finishSeconds": 19370880,
+                            "startsAt": "2024-02-25T13:54:00Z",
+                            "endsAt": "2024-02-25T15:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19178640,
+                            "finishSeconds": 19183320,
+                            "startsAt": "2024-02-25T14:06:00Z",
+                            "endsAt": "2024-02-25T15:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-25T14:00:00Z",
+                            "endsAt": "2024-02-25T15:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20466720,
+                            "finishSeconds": 20470680,
+                            "startsAt": "2024-02-25T15:54:00Z",
+                            "endsAt": "2024-02-25T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-25T16:00:00Z",
+                            "endsAt": "2024-02-25T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24541920,
+                            "finishSeconds": 24547320,
+                            "startsAt": "2024-02-25T15:54:00Z",
+                            "endsAt": "2024-02-25T17:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1171440,
+                            "finishSeconds": 1176120,
+                            "startsAt": "2024-02-25T15:54:00Z",
+                            "endsAt": "2024-02-25T17:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19183320,
+                            "finishSeconds": 19189440,
+                            "startsAt": "2024-02-25T15:54:00Z",
+                            "endsAt": "2024-02-25T17:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19370880,
+                            "finishSeconds": 19377360,
+                            "startsAt": "2024-02-25T15:48:00Z",
+                            "endsAt": "2024-02-25T17:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20470680,
+                            "finishSeconds": 20474640,
+                            "startsAt": "2024-02-25T16:54:00Z",
+                            "endsAt": "2024-02-25T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42099840,
+                            "finishSeconds": 42110640,
+                            "startsAt": "2024-02-25T17:18:00Z",
+                            "endsAt": "2024-02-25T20:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1520640,
+                            "finishSeconds": 1528560,
+                            "startsAt": "2024-02-25T16:48:00Z",
+                            "endsAt": "2024-02-25T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-25T18:00:00Z",
+                            "endsAt": "2024-02-25T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-25T18:00:00Z",
+                            "endsAt": "2024-02-25T19:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-25T20:00:00Z",
+                            "endsAt": "2024-02-25T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 18948600,
+                            "finishSeconds": 18952920,
+                            "startsAt": "2024-02-25T18:48:00Z",
+                            "endsAt": "2024-02-25T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19377360,
+                            "finishSeconds": 19381680,
+                            "startsAt": "2024-02-25T18:48:00Z",
+                            "endsAt": "2024-02-25T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19189440,
+                            "finishSeconds": 19194120,
+                            "startsAt": "2024-02-25T18:48:00Z",
+                            "endsAt": "2024-02-25T20:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1528560,
+                            "finishSeconds": 1532880,
+                            "startsAt": "2024-02-25T19:48:00Z",
+                            "endsAt": "2024-02-25T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24547320,
+                            "finishSeconds": 24552720,
+                            "startsAt": "2024-02-25T19:54:00Z",
+                            "endsAt": "2024-02-25T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1176120,
+                            "finishSeconds": 1180080,
+                            "startsAt": "2024-02-25T20:00:00Z",
+                            "endsAt": "2024-02-25T21:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20464560,
+                            "finishSeconds": 20469600,
+                            "startsAt": "2024-02-25T21:00:00Z",
+                            "endsAt": "2024-02-25T22:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 18952920,
+                            "finishSeconds": 18957600,
+                            "startsAt": "2024-02-25T20:42:00Z",
+                            "endsAt": "2024-02-25T22:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19381680,
+                            "finishSeconds": 19386360,
+                            "startsAt": "2024-02-25T20:42:00Z",
+                            "endsAt": "2024-02-25T22:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-25T23:00:00Z",
+                            "endsAt": "2024-02-25T23:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42110640,
+                            "finishSeconds": 42115680,
+                            "startsAt": "2024-02-25T22:24:00Z",
+                            "endsAt": "2024-02-25T23:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19386360,
+                            "finishSeconds": 19391400,
+                            "startsAt": "2024-02-25T23:00:00Z",
+                            "endsAt": "2024-02-26T00:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20479680,
+                            "finishSeconds": 20486880,
+                            "startsAt": "2024-02-26T00:00:00Z",
+                            "endsAt": "2024-02-26T02:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1532880,
+                            "finishSeconds": 1534680,
+                            "startsAt": "2024-02-25T23:30:00Z",
+                            "endsAt": "2024-02-26T00:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19194120,
+                            "finishSeconds": 19203480,
+                            "startsAt": "2024-02-25T22:48:00Z",
+                            "endsAt": "2024-02-26T01:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1534680,
+                            "finishSeconds": 1539720,
+                            "startsAt": "2024-02-26T12:00:00Z",
+                            "endsAt": "2024-02-26T13:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24552720,
+                            "finishSeconds": 24559200,
+                            "startsAt": "2024-02-26T12:18:00Z",
+                            "endsAt": "2024-02-26T14:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19203480,
+                            "finishSeconds": 19208880,
+                            "startsAt": "2024-02-26T12:18:00Z",
+                            "endsAt": "2024-02-26T13:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-26T13:00:00Z",
+                            "endsAt": "2024-02-26T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20486880,
+                            "finishSeconds": 20491560,
+                            "startsAt": "2024-02-26T12:42:00Z",
+                            "endsAt": "2024-02-26T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19391400,
+                            "finishSeconds": 19398600,
+                            "startsAt": "2024-02-26T12:42:00Z",
+                            "endsAt": "2024-02-26T14:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-26T13:06:00Z",
+                            "endsAt": "2024-02-26T14:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-26T16:00:00Z",
+                            "endsAt": "2024-02-26T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20491560,
+                            "finishSeconds": 20496600,
+                            "startsAt": "2024-02-26T15:00:00Z",
+                            "endsAt": "2024-02-26T16:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1180080,
+                            "finishSeconds": 1183320,
+                            "startsAt": "2024-02-26T15:06:00Z",
+                            "endsAt": "2024-02-26T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird TD2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-26T15:00:00Z",
+                            "endsAt": "2024-02-26T16:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 18957600,
+                            "finishSeconds": 18962640,
+                            "startsAt": "2024-02-26T16:06:00Z",
+                            "endsAt": "2024-02-26T17:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19208880,
+                            "finishSeconds": 19216440,
+                            "startsAt": "2024-02-26T15:42:00Z",
+                            "endsAt": "2024-02-26T17:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1183320,
+                            "finishSeconds": 1187280,
+                            "startsAt": "2024-02-26T16:36:00Z",
+                            "endsAt": "2024-02-26T17:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1539720,
+                            "finishSeconds": 1541880,
+                            "startsAt": "2024-02-26T16:00:00Z",
+                            "endsAt": "2024-02-26T16:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-26T17:30:00Z",
+                            "endsAt": "2024-02-26T18:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42115680,
+                            "finishSeconds": 42121800,
+                            "startsAt": "2024-02-26T17:00:00Z",
+                            "endsAt": "2024-02-26T18:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19398600,
+                            "finishSeconds": 19407600,
+                            "startsAt": "2024-02-26T16:36:00Z",
+                            "endsAt": "2024-02-26T19:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1541880,
+                            "finishSeconds": 1552320,
+                            "startsAt": "2024-02-26T17:36:00Z",
+                            "endsAt": "2024-02-26T20:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1187280,
+                            "finishSeconds": 1191600,
+                            "startsAt": "2024-02-26T18:00:00Z",
+                            "endsAt": "2024-02-26T19:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-26T18:00:00Z",
+                            "endsAt": "2024-02-26T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-26T18:18:00Z",
+                            "endsAt": "2024-02-26T18:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-26T18:48:00Z",
+                            "endsAt": "2024-02-26T18:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 18962640,
+                            "finishSeconds": 18965880,
+                            "startsAt": "2024-02-26T18:24:00Z",
+                            "endsAt": "2024-02-26T19:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-26T19:54:00Z",
+                            "endsAt": "2024-02-26T19:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24562800,
+                            "finishSeconds": 24568560,
+                            "startsAt": "2024-02-26T18:42:00Z",
+                            "endsAt": "2024-02-26T20:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-26T20:00:00Z",
+                            "endsAt": "2024-02-26T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 18965880,
+                            "finishSeconds": 18972360,
+                            "startsAt": "2024-02-26T20:00:00Z",
+                            "endsAt": "2024-02-26T21:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-26T20:00:00Z",
+                            "endsAt": "2024-02-26T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-26T20:00:00Z",
+                            "endsAt": "2024-02-26T20:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-26T20:24:00Z",
+                            "endsAt": "2024-02-26T20:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19216800,
+                            "finishSeconds": 19221480,
+                            "startsAt": "2024-02-26T21:00:00Z",
+                            "endsAt": "2024-02-26T22:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24568560,
+                            "finishSeconds": 24573240,
+                            "startsAt": "2024-02-26T21:00:00Z",
+                            "endsAt": "2024-02-26T22:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19407600,
+                            "finishSeconds": 19411920,
+                            "startsAt": "2024-02-26T20:48:00Z",
+                            "endsAt": "2024-02-26T22:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20496600,
+                            "finishSeconds": 20503440,
+                            "startsAt": "2024-02-26T20:48:00Z",
+                            "endsAt": "2024-02-26T22:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1552320,
+                            "finishSeconds": 1556640,
+                            "startsAt": "2024-02-26T21:30:00Z",
+                            "endsAt": "2024-02-26T22:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 18972360,
+                            "finishSeconds": 18979920,
+                            "startsAt": "2024-02-26T23:12:00Z",
+                            "endsAt": "2024-02-27T01:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1191600,
+                            "finishSeconds": 1193400,
+                            "startsAt": "2024-02-26T23:00:00Z",
+                            "endsAt": "2024-02-26T23:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-26T22:30:00Z",
+                            "endsAt": "2024-02-26T22:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19221480,
+                            "finishSeconds": 19228680,
+                            "startsAt": "2024-02-27T01:00:00Z",
+                            "endsAt": "2024-02-27T03:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20503440,
+                            "finishSeconds": 20511360,
+                            "startsAt": "2024-02-27T11:42:00Z",
+                            "endsAt": "2024-02-27T13:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42121800,
+                            "finishSeconds": 42127920,
+                            "startsAt": "2024-02-27T11:42:00Z",
+                            "endsAt": "2024-02-27T13:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19228680,
+                            "finishSeconds": 19233720,
+                            "startsAt": "2024-02-27T11:42:00Z",
+                            "endsAt": "2024-02-27T13:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 18979920,
+                            "finishSeconds": 18986760,
+                            "startsAt": "2024-02-27T11:42:00Z",
+                            "endsAt": "2024-02-27T13:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24573240,
+                            "finishSeconds": 24575760,
+                            "startsAt": "2024-02-27T11:42:00Z",
+                            "endsAt": "2024-02-27T12:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19412280,
+                            "finishSeconds": 19418400,
+                            "startsAt": "2024-02-27T12:36:00Z",
+                            "endsAt": "2024-02-27T14:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1191600,
+                            "finishSeconds": 1198440,
+                            "startsAt": "2024-02-27T13:00:00Z",
+                            "endsAt": "2024-02-27T14:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-27T14:00:00Z",
+                            "endsAt": "2024-02-27T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-27T14:00:00Z",
+                            "endsAt": "2024-02-27T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1556640,
+                            "finishSeconds": 1565640,
+                            "startsAt": "2024-02-27T13:42:00Z",
+                            "endsAt": "2024-02-27T16:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24575760,
+                            "finishSeconds": 24588720,
+                            "startsAt": "2024-02-27T15:24:00Z",
+                            "endsAt": "2024-02-27T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42127920,
+                            "finishSeconds": 42132960,
+                            "startsAt": "2024-02-27T15:24:00Z",
+                            "endsAt": "2024-02-27T16:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-27T15:36:00Z",
+                            "endsAt": "2024-02-27T16:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-27T15:00:00Z",
+                            "endsAt": "2024-02-27T16:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19418400,
+                            "finishSeconds": 19423440,
+                            "startsAt": "2024-02-27T15:24:00Z",
+                            "endsAt": "2024-02-27T16:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 18986760,
+                            "finishSeconds": 18992160,
+                            "startsAt": "2024-02-27T17:24:00Z",
+                            "endsAt": "2024-02-27T18:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-27T17:00:00Z",
+                            "endsAt": "2024-02-27T18:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-27T17:00:00Z",
+                            "endsAt": "2024-02-27T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1198440,
+                            "finishSeconds": 1198440,
+                            "startsAt": "2024-02-27T17:00:00Z",
+                            "endsAt": "2024-02-27T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-27T18:00:00Z",
+                            "endsAt": "2024-02-27T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-27T18:00:00Z",
+                            "endsAt": "2024-02-27T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1565640,
+                            "finishSeconds": 1572480,
+                            "startsAt": "2024-02-27T19:00:00Z",
+                            "endsAt": "2024-02-27T20:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1198440,
+                            "finishSeconds": 1203840,
+                            "startsAt": "2024-02-27T19:00:00Z",
+                            "endsAt": "2024-02-27T20:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-27T19:00:00Z",
+                            "endsAt": "2024-02-27T20:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 18992160,
+                            "finishSeconds": 18997560,
+                            "startsAt": "2024-02-27T20:00:00Z",
+                            "endsAt": "2024-02-27T21:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-27T21:00:00Z",
+                            "endsAt": "2024-02-27T22:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {},
+        {},
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1203840,
+                            "finishSeconds": 1209240,
+                            "startsAt": "2024-02-27T21:00:00Z",
+                            "endsAt": "2024-02-27T22:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 18997560,
+                            "finishSeconds": 19002960,
+                            "startsAt": "2024-02-27T22:00:00Z",
+                            "endsAt": "2024-02-27T23:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1572480,
+                            "finishSeconds": 1578240,
+                            "startsAt": "2024-02-27T22:18:00Z",
+                            "endsAt": "2024-02-27T23:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-27T23:00:00Z",
+                            "endsAt": "2024-02-27T23:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20511360,
+                            "finishSeconds": 20518200,
+                            "startsAt": "2024-02-27T22:48:00Z",
+                            "endsAt": "2024-02-28T00:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-27T23:30:00Z",
+                            "endsAt": "2024-02-27T23:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20518200,
+                            "finishSeconds": 20525400,
+                            "startsAt": "2024-02-28T11:42:00Z",
+                            "endsAt": "2024-02-28T13:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24588720,
+                            "finishSeconds": 24594120,
+                            "startsAt": "2024-02-28T11:48:00Z",
+                            "endsAt": "2024-02-28T13:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-28T13:12:00Z",
+                            "endsAt": "2024-02-28T13:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1208880,
+                            "finishSeconds": 1212480,
+                            "startsAt": "2024-02-28T13:00:00Z",
+                            "endsAt": "2024-02-28T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-28T13:00:00Z",
+                            "endsAt": "2024-02-28T14:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1212480,
+                            "finishSeconds": 1214640,
+                            "startsAt": "2024-02-28T14:00:00Z",
+                            "endsAt": "2024-02-28T14:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-28T15:00:00Z",
+                            "endsAt": "2024-02-28T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-28T15:12:00Z",
+                            "endsAt": "2024-02-28T15:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-28T14:54:00Z",
+                            "endsAt": "2024-02-28T14:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1213560,
+                            "finishSeconds": 1217160,
+                            "startsAt": "2024-02-28T15:12:00Z",
+                            "endsAt": "2024-02-28T16:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24594120,
+                            "finishSeconds": 24598800,
+                            "startsAt": "2024-02-28T16:00:00Z",
+                            "endsAt": "2024-02-28T17:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-28T17:00:00Z",
+                            "endsAt": "2024-02-28T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1217160,
+                            "finishSeconds": 1223640,
+                            "startsAt": "2024-02-28T17:00:00Z",
+                            "endsAt": "2024-02-28T18:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-28T18:00:00Z",
+                            "endsAt": "2024-02-28T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-28T16:30:00Z",
+                            "endsAt": "2024-02-28T18:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19423440,
+                            "finishSeconds": 19427760,
+                            "startsAt": "2024-02-28T18:48:00Z",
+                            "endsAt": "2024-02-28T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-28T19:00:00Z",
+                            "endsAt": "2024-02-28T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-28T19:00:00Z",
+                            "endsAt": "2024-02-28T20:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19002960,
+                            "finishSeconds": 19002960,
+                            "startsAt": "2024-02-28T20:00:00Z",
+                            "endsAt": "2024-02-28T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1223640,
+                            "finishSeconds": 1229400,
+                            "startsAt": "2024-02-28T20:24:00Z",
+                            "endsAt": "2024-02-28T22:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20525400,
+                            "finishSeconds": 20529720,
+                            "startsAt": "2024-02-28T20:24:00Z",
+                            "endsAt": "2024-02-28T21:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-28T21:30:00Z",
+                            "endsAt": "2024-02-28T21:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19427760,
+                            "finishSeconds": 19433520,
+                            "startsAt": "2024-02-28T22:18:00Z",
+                            "endsAt": "2024-02-28T23:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-28T22:30:00Z",
+                            "endsAt": "2024-02-28T22:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1229400,
+                            "finishSeconds": 1236240,
+                            "startsAt": "2024-02-29T00:00:00Z",
+                            "endsAt": "2024-02-29T01:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-29T11:06:00Z",
+                            "endsAt": "2024-02-29T11:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1578240,
+                            "finishSeconds": 1579320,
+                            "startsAt": "2024-02-29T12:00:00Z",
+                            "endsAt": "2024-02-29T12:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19433520,
+                            "finishSeconds": 19437480,
+                            "startsAt": "2024-02-29T11:54:00Z",
+                            "endsAt": "2024-02-29T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42132960,
+                            "finishSeconds": 42138360,
+                            "startsAt": "2024-02-29T11:54:00Z",
+                            "endsAt": "2024-02-29T13:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-29T13:00:00Z",
+                            "endsAt": "2024-02-29T14:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-29T14:00:00Z",
+                            "endsAt": "2024-02-29T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1579320,
+                            "finishSeconds": 1585080,
+                            "startsAt": "2024-02-29T14:00:00Z",
+                            "endsAt": "2024-02-29T15:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42138360,
+                            "finishSeconds": 42143760,
+                            "startsAt": "2024-02-29T14:00:00Z",
+                            "endsAt": "2024-02-29T15:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-29T15:00:00Z",
+                            "endsAt": "2024-02-29T16:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-29T16:00:00Z",
+                            "endsAt": "2024-02-29T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1239480,
+                            "finishSeconds": 1244880,
+                            "startsAt": "2024-02-29T16:00:00Z",
+                            "endsAt": "2024-02-29T17:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-29T16:06:00Z",
+                            "endsAt": "2024-02-29T16:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-29T17:00:00Z",
+                            "endsAt": "2024-02-29T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-29T17:00:00Z",
+                            "endsAt": "2024-02-29T18:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24598800,
+                            "finishSeconds": 24604200,
+                            "startsAt": "2024-02-29T18:36:00Z",
+                            "endsAt": "2024-02-29T20:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-29T18:00:00Z",
+                            "endsAt": "2024-02-29T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1244880,
+                            "finishSeconds": 1249560,
+                            "startsAt": "2024-02-29T18:00:00Z",
+                            "endsAt": "2024-02-29T19:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-29T18:30:00Z",
+                            "endsAt": "2024-02-29T19:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird TD2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19437480,
+                            "finishSeconds": 19441440,
+                            "startsAt": "2024-02-29T19:12:00Z",
+                            "endsAt": "2024-02-29T20:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1249560,
+                            "finishSeconds": 1254600,
+                            "startsAt": "2024-02-29T20:00:00Z",
+                            "endsAt": "2024-02-29T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-29T19:24:00Z",
+                            "endsAt": "2024-02-29T19:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24604200,
+                            "finishSeconds": 24610680,
+                            "startsAt": "2024-02-29T20:00:00Z",
+                            "endsAt": "2024-02-29T21:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-29T20:00:00Z",
+                            "endsAt": "2024-02-29T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-29T21:00:00Z",
+                            "endsAt": "2024-02-29T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1254600,
+                            "finishSeconds": 1258200,
+                            "startsAt": "2024-02-29T21:48:00Z",
+                            "endsAt": "2024-02-29T22:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-02-29T22:30:00Z",
+                            "endsAt": "2024-02-29T22:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-01T12:18:00Z",
+                            "endsAt": "2024-03-01T12:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19002960,
+                            "finishSeconds": 19005840,
+                            "startsAt": "2024-03-01T12:00:00Z",
+                            "endsAt": "2024-03-01T12:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    },
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19005840,
+                            "finishSeconds": 19008360,
+                            "startsAt": "2024-03-01T13:30:00Z",
+                            "endsAt": "2024-03-01T14:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19235520,
+                            "finishSeconds": 19240200,
+                            "startsAt": "2024-03-01T13:24:00Z",
+                            "endsAt": "2024-03-01T14:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-01T13:18:00Z",
+                            "endsAt": "2024-03-01T14:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1258560,
+                            "finishSeconds": 1262520,
+                            "startsAt": "2024-03-01T14:00:00Z",
+                            "endsAt": "2024-03-01T15:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19441440,
+                            "finishSeconds": 19447200,
+                            "startsAt": "2024-03-01T13:36:00Z",
+                            "endsAt": "2024-03-01T15:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-01T14:00:00Z",
+                            "endsAt": "2024-03-01T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-01T14:00:00Z",
+                            "endsAt": "2024-03-01T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-01T15:00:00Z",
+                            "endsAt": "2024-03-01T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24610680,
+                            "finishSeconds": 24618240,
+                            "startsAt": "2024-03-01T15:24:00Z",
+                            "endsAt": "2024-03-01T17:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1262520,
+                            "finishSeconds": 1269000,
+                            "startsAt": "2024-03-01T16:00:00Z",
+                            "endsAt": "2024-03-01T17:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-01T16:00:00Z",
+                            "endsAt": "2024-03-01T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-01T16:18:00Z",
+                            "endsAt": "2024-03-01T16:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19008360,
+                            "finishSeconds": 19008360,
+                            "startsAt": "2024-03-01T18:00:00Z",
+                            "endsAt": "2024-03-01T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-01T18:00:00Z",
+                            "endsAt": "2024-03-01T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-01T18:00:00Z",
+                            "endsAt": "2024-03-01T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1269000,
+                            "finishSeconds": 1275120,
+                            "startsAt": "2024-03-01T19:00:00Z",
+                            "endsAt": "2024-03-01T20:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-01T21:06:00Z",
+                            "endsAt": "2024-03-01T23:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-01T20:00:00Z",
+                            "endsAt": "2024-03-01T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-01T20:12:00Z",
+                            "endsAt": "2024-03-01T20:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19447200,
+                            "finishSeconds": 19452600,
+                            "startsAt": "2024-03-01T20:12:00Z",
+                            "endsAt": "2024-03-01T21:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42143760,
+                            "finishSeconds": 42150600,
+                            "startsAt": "2024-03-01T20:12:00Z",
+                            "endsAt": "2024-03-01T22:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-01T21:36:00Z",
+                            "endsAt": "2024-03-01T21:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24618240,
+                            "finishSeconds": 24624720,
+                            "startsAt": "2024-03-01T21:36:00Z",
+                            "endsAt": "2024-03-01T23:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T12:00:00Z",
+                            "endsAt": "2024-03-02T13:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T14:00:00Z",
+                            "endsAt": "2024-03-02T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1275120,
+                            "finishSeconds": 1277280,
+                            "startsAt": "2024-03-02T14:00:00Z",
+                            "endsAt": "2024-03-02T14:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T14:00:00Z",
+                            "endsAt": "2024-03-02T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1278000,
+                            "finishSeconds": 1281960,
+                            "startsAt": "2024-03-02T15:00:00Z",
+                            "endsAt": "2024-03-02T16:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T15:00:00Z",
+                            "endsAt": "2024-03-02T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1282320,
+                            "finishSeconds": 1284120,
+                            "startsAt": "2024-03-02T16:00:00Z",
+                            "endsAt": "2024-03-02T16:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T16:00:00Z",
+                            "endsAt": "2024-03-02T17:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T16:00:00Z",
+                            "endsAt": "2024-03-02T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T16:06:00Z",
+                            "endsAt": "2024-03-02T16:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T16:30:00Z",
+                            "endsAt": "2024-03-02T16:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1284120,
+                            "finishSeconds": 1289880,
+                            "startsAt": "2024-03-02T17:00:00Z",
+                            "endsAt": "2024-03-02T18:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T17:00:00Z",
+                            "endsAt": "2024-03-02T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T19:00:00Z",
+                            "endsAt": "2024-03-02T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T18:00:00Z",
+                            "endsAt": "2024-03-02T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T18:00:00Z",
+                            "endsAt": "2024-03-02T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T18:00:00Z",
+                            "endsAt": "2024-03-02T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20530800,
+                            "finishSeconds": 20538000,
+                            "startsAt": "2024-03-02T19:00:00Z",
+                            "endsAt": "2024-03-02T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42150600,
+                            "finishSeconds": 42157800,
+                            "startsAt": "2024-03-02T19:00:00Z",
+                            "endsAt": "2024-03-02T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T21:30:00Z",
+                            "endsAt": "2024-03-02T21:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24624720,
+                            "finishSeconds": 24629760,
+                            "startsAt": "2024-03-02T20:00:00Z",
+                            "endsAt": "2024-03-02T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19008360,
+                            "finishSeconds": 19014480,
+                            "startsAt": "2024-03-02T19:48:00Z",
+                            "endsAt": "2024-03-02T21:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19240200,
+                            "finishSeconds": 19244520,
+                            "startsAt": "2024-03-02T20:00:00Z",
+                            "endsAt": "2024-03-02T21:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1289880,
+                            "finishSeconds": 1296000,
+                            "startsAt": "2024-03-02T20:00:00Z",
+                            "endsAt": "2024-03-02T21:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-02T23:00:00Z",
+                            "endsAt": "2024-03-02T23:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-03T13:30:00Z",
+                            "endsAt": "2024-03-03T15:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-03T14:00:00Z",
+                            "endsAt": "2024-03-03T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-03T14:00:00Z",
+                            "endsAt": "2024-03-03T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-03T14:00:00Z",
+                            "endsAt": "2024-03-03T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1298160,
+                            "finishSeconds": 1302480,
+                            "startsAt": "2024-03-03T14:06:00Z",
+                            "endsAt": "2024-03-03T15:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-03T15:00:00Z",
+                            "endsAt": "2024-03-03T16:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-03T15:00:00Z",
+                            "endsAt": "2024-03-03T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20538000,
+                            "finishSeconds": 20544480,
+                            "startsAt": "2024-03-03T15:30:00Z",
+                            "endsAt": "2024-03-03T17:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19014480,
+                            "finishSeconds": 19019160,
+                            "startsAt": "2024-03-03T16:00:00Z",
+                            "endsAt": "2024-03-03T17:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19244520,
+                            "finishSeconds": 19248480,
+                            "startsAt": "2024-03-03T17:00:00Z",
+                            "endsAt": "2024-03-03T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-03T17:00:00Z",
+                            "endsAt": "2024-03-03T19:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19452600,
+                            "finishSeconds": 19457280,
+                            "startsAt": "2024-03-03T17:00:00Z",
+                            "endsAt": "2024-03-03T18:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42157800,
+                            "finishSeconds": 42162480,
+                            "startsAt": "2024-03-03T16:48:00Z",
+                            "endsAt": "2024-03-03T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1302480,
+                            "finishSeconds": 1306080,
+                            "startsAt": "2024-03-03T18:00:00Z",
+                            "endsAt": "2024-03-03T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-03T19:00:00Z",
+                            "endsAt": "2024-03-03T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19248480,
+                            "finishSeconds": 19251360,
+                            "startsAt": "2024-03-03T19:18:00Z",
+                            "endsAt": "2024-03-03T20:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19457280,
+                            "finishSeconds": 19460880,
+                            "startsAt": "2024-03-03T18:54:00Z",
+                            "endsAt": "2024-03-03T19:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-03T19:00:00Z",
+                            "endsAt": "2024-03-03T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1306800,
+                            "finishSeconds": 1311120,
+                            "startsAt": "2024-03-03T20:00:00Z",
+                            "endsAt": "2024-03-03T21:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-03T20:00:00Z",
+                            "endsAt": "2024-03-03T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-03T21:00:00Z",
+                            "endsAt": "2024-03-03T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-03T20:00:00Z",
+                            "endsAt": "2024-03-03T21:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-03T20:30:00Z",
+                            "endsAt": "2024-03-03T22:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-03T23:00:00Z",
+                            "endsAt": "2024-03-03T23:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1311120,
+                            "finishSeconds": 1314360,
+                            "startsAt": "2024-03-03T22:00:00Z",
+                            "endsAt": "2024-03-03T22:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1314360,
+                            "finishSeconds": 1316160,
+                            "startsAt": "2024-03-04T00:00:00Z",
+                            "endsAt": "2024-03-04T00:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1316160,
+                            "finishSeconds": 1322280,
+                            "startsAt": "2024-03-04T11:00:00Z",
+                            "endsAt": "2024-03-04T12:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-04T12:00:00Z",
+                            "endsAt": "2024-03-04T12:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-04T15:00:00Z",
+                            "endsAt": "2024-03-04T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-04T14:00:00Z",
+                            "endsAt": "2024-03-04T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-04T13:30:00Z",
+                            "endsAt": "2024-03-04T15:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-04T13:00:00Z",
+                            "endsAt": "2024-03-04T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1321200,
+                            "finishSeconds": 1328040,
+                            "startsAt": "2024-03-04T14:18:00Z",
+                            "endsAt": "2024-03-04T16:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-04T14:00:00Z",
+                            "endsAt": "2024-03-04T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-04T15:30:00Z",
+                            "endsAt": "2024-03-04T17:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-04T18:00:00Z",
+                            "endsAt": "2024-03-04T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1328040,
+                            "finishSeconds": 1332720,
+                            "startsAt": "2024-03-04T16:00:00Z",
+                            "endsAt": "2024-03-04T17:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19251360,
+                            "finishSeconds": 19256760,
+                            "startsAt": "2024-03-04T16:42:00Z",
+                            "endsAt": "2024-03-04T18:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-04T17:12:00Z",
+                            "endsAt": "2024-03-04T17:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-04T18:12:00Z",
+                            "endsAt": "2024-03-04T19:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1332720,
+                            "finishSeconds": 1336680,
+                            "startsAt": "2024-03-04T18:36:00Z",
+                            "endsAt": "2024-03-04T19:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-04T18:00:00Z",
+                            "endsAt": "2024-03-04T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19256760,
+                            "finishSeconds": 19261800,
+                            "startsAt": "2024-03-04T19:06:00Z",
+                            "endsAt": "2024-03-04T20:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24629760,
+                            "finishSeconds": 24637320,
+                            "startsAt": "2024-03-04T19:00:00Z",
+                            "endsAt": "2024-03-04T21:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19464480,
+                            "finishSeconds": 19469880,
+                            "startsAt": "2024-03-04T18:36:00Z",
+                            "endsAt": "2024-03-04T20:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-04T19:06:00Z",
+                            "endsAt": "2024-03-04T19:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-04T20:00:00Z",
+                            "endsAt": "2024-03-04T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1336680,
+                            "finishSeconds": 1342080,
+                            "startsAt": "2024-03-04T20:06:00Z",
+                            "endsAt": "2024-03-04T21:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19261800,
+                            "finishSeconds": 19267200,
+                            "startsAt": "2024-03-04T20:54:00Z",
+                            "endsAt": "2024-03-04T22:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19469880,
+                            "finishSeconds": 19475640,
+                            "startsAt": "2024-03-04T20:36:00Z",
+                            "endsAt": "2024-03-04T22:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19019160,
+                            "finishSeconds": 19023480,
+                            "startsAt": "2024-03-04T21:06:00Z",
+                            "endsAt": "2024-03-04T22:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20544480,
+                            "finishSeconds": 20553480,
+                            "startsAt": "2024-03-04T20:36:00Z",
+                            "endsAt": "2024-03-04T23:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19475640,
+                            "finishSeconds": 19480680,
+                            "startsAt": "2024-03-04T23:00:00Z",
+                            "endsAt": "2024-03-05T00:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42162480,
+                            "finishSeconds": 42165360,
+                            "startsAt": "2024-03-04T21:54:00Z",
+                            "endsAt": "2024-03-04T22:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-05T12:00:00Z",
+                            "endsAt": "2024-03-05T12:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1342080,
+                            "finishSeconds": 1346400,
+                            "startsAt": "2024-03-05T12:00:00Z",
+                            "endsAt": "2024-03-05T13:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-05T13:00:00Z",
+                            "endsAt": "2024-03-05T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-05T14:00:00Z",
+                            "endsAt": "2024-03-05T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-05T15:00:00Z",
+                            "endsAt": "2024-03-05T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42165360,
+                            "finishSeconds": 42170040,
+                            "startsAt": "2024-03-05T15:06:00Z",
+                            "endsAt": "2024-03-05T16:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24637320,
+                            "finishSeconds": 24642720,
+                            "startsAt": "2024-03-05T16:48:00Z",
+                            "endsAt": "2024-03-05T18:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-05T17:00:00Z",
+                            "endsAt": "2024-03-05T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19267200,
+                            "finishSeconds": 19272600,
+                            "startsAt": "2024-03-05T17:00:00Z",
+                            "endsAt": "2024-03-05T18:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19023480,
+                            "finishSeconds": 19029240,
+                            "startsAt": "2024-03-05T16:48:00Z",
+                            "endsAt": "2024-03-05T18:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-05T18:00:00Z",
+                            "endsAt": "2024-03-05T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42170040,
+                            "finishSeconds": 42173640,
+                            "startsAt": "2024-03-05T18:00:00Z",
+                            "endsAt": "2024-03-05T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1346400,
+                            "finishSeconds": 1347840,
+                            "startsAt": "2024-03-05T18:00:00Z",
+                            "endsAt": "2024-03-05T18:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19272600,
+                            "finishSeconds": 19277280,
+                            "startsAt": "2024-03-05T19:06:00Z",
+                            "endsAt": "2024-03-05T20:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19029240,
+                            "finishSeconds": 19033560,
+                            "startsAt": "2024-03-05T18:48:00Z",
+                            "endsAt": "2024-03-05T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-05T19:00:00Z",
+                            "endsAt": "2024-03-05T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-05T20:00:00Z",
+                            "endsAt": "2024-03-05T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-05T20:00:00Z",
+                            "endsAt": "2024-03-05T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24642720,
+                            "finishSeconds": 24648840,
+                            "startsAt": "2024-03-05T20:00:00Z",
+                            "endsAt": "2024-03-05T21:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20553480,
+                            "finishSeconds": 20559240,
+                            "startsAt": "2024-03-05T20:06:00Z",
+                            "endsAt": "2024-03-05T21:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19033560,
+                            "finishSeconds": 19038240,
+                            "startsAt": "2024-03-05T21:00:00Z",
+                            "endsAt": "2024-03-05T22:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19480680,
+                            "finishSeconds": 19486800,
+                            "startsAt": "2024-03-05T21:00:00Z",
+                            "endsAt": "2024-03-05T22:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19277280,
+                            "finishSeconds": 19282680,
+                            "startsAt": "2024-03-05T21:00:00Z",
+                            "endsAt": "2024-03-05T22:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-05T22:00:00Z",
+                            "endsAt": "2024-03-05T22:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42173640,
+                            "finishSeconds": 42180120,
+                            "startsAt": "2024-03-05T23:00:00Z",
+                            "endsAt": "2024-03-06T00:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-05T23:00:00Z",
+                            "endsAt": "2024-03-05T23:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1347840,
+                            "finishSeconds": 1351440,
+                            "startsAt": "2024-03-06T00:00:00Z",
+                            "endsAt": "2024-03-06T01:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44239680,
+                            "finishSeconds": 44249400,
+                            "startsAt": "2024-03-06T11:54:00Z",
+                            "endsAt": "2024-03-06T14:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-06T13:00:00Z",
+                            "endsAt": "2024-03-06T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-06T14:18:00Z",
+                            "endsAt": "2024-03-06T14:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-06T14:36:00Z",
+                            "endsAt": "2024-03-06T14:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1351440,
+                            "finishSeconds": 1351440,
+                            "startsAt": "2024-03-06T15:24:00Z",
+                            "endsAt": "2024-03-06T15:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-06T15:00:00Z",
+                            "endsAt": "2024-03-06T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19038240,
+                            "finishSeconds": 19042560,
+                            "startsAt": "2024-03-06T15:54:00Z",
+                            "endsAt": "2024-03-06T17:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-06T16:48:00Z",
+                            "endsAt": "2024-03-06T16:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20559240,
+                            "finishSeconds": 20563560,
+                            "startsAt": "2024-03-06T17:06:00Z",
+                            "endsAt": "2024-03-06T18:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-06T18:06:00Z",
+                            "endsAt": "2024-03-06T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-06T18:06:00Z",
+                            "endsAt": "2024-03-06T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-06T19:24:00Z",
+                            "endsAt": "2024-03-06T19:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-06T19:00:00Z",
+                            "endsAt": "2024-03-06T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1585440,
+                            "finishSeconds": 1591560,
+                            "startsAt": "2024-03-06T19:00:00Z",
+                            "endsAt": "2024-03-06T20:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24648840,
+                            "finishSeconds": 24655320,
+                            "startsAt": "2024-03-06T20:00:00Z",
+                            "endsAt": "2024-03-06T21:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-06T20:00:00Z",
+                            "endsAt": "2024-03-06T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19282680,
+                            "finishSeconds": 19288080,
+                            "startsAt": "2024-03-06T21:00:00Z",
+                            "endsAt": "2024-03-06T22:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-06T21:00:00Z",
+                            "endsAt": "2024-03-06T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20563560,
+                            "finishSeconds": 20570040,
+                            "startsAt": "2024-03-06T21:06:00Z",
+                            "endsAt": "2024-03-06T22:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19486800,
+                            "finishSeconds": 19491840,
+                            "startsAt": "2024-03-06T23:00:00Z",
+                            "endsAt": "2024-03-07T00:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1351440,
+                            "finishSeconds": 1355760,
+                            "startsAt": "2024-03-06T23:00:00Z",
+                            "endsAt": "2024-03-07T00:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42180120,
+                            "finishSeconds": 42187320,
+                            "startsAt": "2024-03-07T00:00:00Z",
+                            "endsAt": "2024-03-07T02:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-07T01:00:00Z",
+                            "endsAt": "2024-03-07T01:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24655320,
+                            "finishSeconds": 24661080,
+                            "startsAt": "2024-03-07T11:42:00Z",
+                            "endsAt": "2024-03-07T13:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1355760,
+                            "finishSeconds": 1359720,
+                            "startsAt": "2024-03-07T12:00:00Z",
+                            "endsAt": "2024-03-07T13:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20570040,
+                            "finishSeconds": 20574000,
+                            "startsAt": "2024-03-07T12:42:00Z",
+                            "endsAt": "2024-03-07T13:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1591560,
+                            "finishSeconds": 1596240,
+                            "startsAt": "2024-03-07T13:48:00Z",
+                            "endsAt": "2024-03-07T15:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1359720,
+                            "finishSeconds": 1362600,
+                            "startsAt": "2024-03-07T14:00:00Z",
+                            "endsAt": "2024-03-07T14:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20574000,
+                            "finishSeconds": 20578680,
+                            "startsAt": "2024-03-07T15:54:00Z",
+                            "endsAt": "2024-03-07T17:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19491840,
+                            "finishSeconds": 19497960,
+                            "startsAt": "2024-03-07T15:12:00Z",
+                            "endsAt": "2024-03-07T16:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-07T15:00:00Z",
+                            "endsAt": "2024-03-07T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1596240,
+                            "finishSeconds": 1603800,
+                            "startsAt": "2024-03-07T17:12:00Z",
+                            "endsAt": "2024-03-07T19:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19042560,
+                            "finishSeconds": 19047600,
+                            "startsAt": "2024-03-07T16:00:00Z",
+                            "endsAt": "2024-03-07T17:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24661080,
+                            "finishSeconds": 24666480,
+                            "startsAt": "2024-03-07T16:06:00Z",
+                            "endsAt": "2024-03-07T17:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19290960,
+                            "finishSeconds": 19297080,
+                            "startsAt": "2024-03-07T17:00:00Z",
+                            "endsAt": "2024-03-07T18:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-07T17:00:00Z",
+                            "endsAt": "2024-03-07T18:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-07T18:06:00Z",
+                            "endsAt": "2024-03-07T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19497960,
+                            "finishSeconds": 19502280,
+                            "startsAt": "2024-03-07T17:12:00Z",
+                            "endsAt": "2024-03-07T18:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-07T18:06:00Z",
+                            "endsAt": "2024-03-07T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-07T19:00:00Z",
+                            "endsAt": "2024-03-07T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19047600,
+                            "finishSeconds": 19055160,
+                            "startsAt": "2024-03-07T18:06:00Z",
+                            "endsAt": "2024-03-07T20:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42187320,
+                            "finishSeconds": 42192360,
+                            "startsAt": "2024-03-07T18:06:00Z",
+                            "endsAt": "2024-03-07T19:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24666480,
+                            "finishSeconds": 24671160,
+                            "startsAt": "2024-03-07T18:06:00Z",
+                            "endsAt": "2024-03-07T19:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1362600,
+                            "finishSeconds": 1364760,
+                            "startsAt": "2024-03-07T19:30:00Z",
+                            "endsAt": "2024-03-07T20:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19297080,
+                            "finishSeconds": 19301400,
+                            "startsAt": "2024-03-07T19:00:00Z",
+                            "endsAt": "2024-03-07T20:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20578680,
+                            "finishSeconds": 20584080,
+                            "startsAt": "2024-03-07T19:54:00Z",
+                            "endsAt": "2024-03-07T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24671160,
+                            "finishSeconds": 24678000,
+                            "startsAt": "2024-03-07T20:18:00Z",
+                            "endsAt": "2024-03-07T22:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19502280,
+                            "finishSeconds": 19507320,
+                            "startsAt": "2024-03-07T20:12:00Z",
+                            "endsAt": "2024-03-07T21:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42192360,
+                            "finishSeconds": 42199560,
+                            "startsAt": "2024-03-07T21:06:00Z",
+                            "endsAt": "2024-03-07T23:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1364760,
+                            "finishSeconds": 1369440,
+                            "startsAt": "2024-03-07T22:30:00Z",
+                            "endsAt": "2024-03-07T23:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20584080,
+                            "finishSeconds": 20591640,
+                            "startsAt": "2024-03-07T23:00:00Z",
+                            "endsAt": "2024-03-08T01:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1603800,
+                            "finishSeconds": 1612080,
+                            "startsAt": "2024-03-07T23:18:00Z",
+                            "endsAt": "2024-03-08T01:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-08T00:00:00Z",
+                            "endsAt": "2024-03-08T00:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42199560,
+                            "finishSeconds": 42206760,
+                            "startsAt": "2024-03-08T00:00:00Z",
+                            "endsAt": "2024-03-08T02:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19301400,
+                            "finishSeconds": 19303920,
+                            "startsAt": "2024-03-08T00:00:00Z",
+                            "endsAt": "2024-03-08T00:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1369440,
+                            "finishSeconds": 1373400,
+                            "startsAt": "2024-03-08T11:36:00Z",
+                            "endsAt": "2024-03-08T12:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-08T16:00:00Z",
+                            "endsAt": "2024-03-08T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19303920,
+                            "finishSeconds": 19305720,
+                            "startsAt": "2024-03-08T13:24:00Z",
+                            "endsAt": "2024-03-08T13:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24678000,
+                            "finishSeconds": 24678720,
+                            "startsAt": "2024-03-08T14:06:00Z",
+                            "endsAt": "2024-03-08T14:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1378080,
+                            "finishSeconds": 1382400,
+                            "startsAt": "2024-03-08T18:12:00Z",
+                            "endsAt": "2024-03-08T19:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24678720,
+                            "finishSeconds": 24682680,
+                            "startsAt": "2024-03-08T16:00:00Z",
+                            "endsAt": "2024-03-08T17:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1373400,
+                            "finishSeconds": 1378080,
+                            "startsAt": "2024-03-08T15:54:00Z",
+                            "endsAt": "2024-03-08T17:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44261280,
+                            "finishSeconds": 44275680,
+                            "startsAt": "2024-03-08T18:12:00Z",
+                            "endsAt": "2024-03-08T22:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-08T16:00:00Z",
+                            "endsAt": "2024-03-08T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20591640,
+                            "finishSeconds": 20596680,
+                            "startsAt": "2024-03-08T18:12:00Z",
+                            "endsAt": "2024-03-08T19:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19305720,
+                            "finishSeconds": 19310760,
+                            "startsAt": "2024-03-08T17:42:00Z",
+                            "endsAt": "2024-03-08T19:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-08T18:00:00Z",
+                            "endsAt": "2024-03-08T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19507320,
+                            "finishSeconds": 19515960,
+                            "startsAt": "2024-03-08T18:12:00Z",
+                            "endsAt": "2024-03-08T20:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19056960,
+                            "finishSeconds": 19059480,
+                            "startsAt": "2024-03-08T19:12:00Z",
+                            "endsAt": "2024-03-08T19:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1612080,
+                            "finishSeconds": 1617480,
+                            "startsAt": "2024-03-08T19:42:00Z",
+                            "endsAt": "2024-03-08T21:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19310760,
+                            "finishSeconds": 19316520,
+                            "startsAt": "2024-03-08T19:42:00Z",
+                            "endsAt": "2024-03-08T21:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24682680,
+                            "finishSeconds": 24689880,
+                            "startsAt": "2024-03-08T19:54:00Z",
+                            "endsAt": "2024-03-08T21:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-08T20:00:00Z",
+                            "endsAt": "2024-03-08T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20596680,
+                            "finishSeconds": 20604960,
+                            "startsAt": "2024-03-08T19:54:00Z",
+                            "endsAt": "2024-03-08T22:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-08T21:42:00Z",
+                            "endsAt": "2024-03-08T21:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19316520,
+                            "finishSeconds": 19317600,
+                            "startsAt": "2024-03-08T22:18:00Z",
+                            "endsAt": "2024-03-08T22:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1617480,
+                            "finishSeconds": 1626840,
+                            "startsAt": "2024-03-08T22:18:00Z",
+                            "endsAt": "2024-03-09T00:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20604960,
+                            "finishSeconds": 20609640,
+                            "startsAt": "2024-03-08T23:06:00Z",
+                            "endsAt": "2024-03-09T00:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19059480,
+                            "finishSeconds": 19065600,
+                            "startsAt": "2024-03-08T23:06:00Z",
+                            "endsAt": "2024-03-09T00:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19515960,
+                            "finishSeconds": 19520640,
+                            "startsAt": "2024-03-08T23:36:00Z",
+                            "endsAt": "2024-03-09T00:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19317600,
+                            "finishSeconds": 19321560,
+                            "startsAt": "2024-03-09T00:00:00Z",
+                            "endsAt": "2024-03-09T01:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20609640,
+                            "finishSeconds": 20614680,
+                            "startsAt": "2024-03-09T02:06:00Z",
+                            "endsAt": "2024-03-09T03:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19520640,
+                            "finishSeconds": 19522440,
+                            "startsAt": "2024-03-09T02:06:00Z",
+                            "endsAt": "2024-03-09T02:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-09T11:30:00Z",
+                            "endsAt": "2024-03-09T11:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-09T12:00:00Z",
+                            "endsAt": "2024-03-09T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1382400,
+                            "finishSeconds": 1385280,
+                            "startsAt": "2024-03-09T12:00:00Z",
+                            "endsAt": "2024-03-09T12:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1385280,
+                            "finishSeconds": 1388880,
+                            "startsAt": "2024-03-09T14:00:00Z",
+                            "endsAt": "2024-03-09T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-09T14:00:00Z",
+                            "endsAt": "2024-03-09T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-09T14:00:00Z",
+                            "endsAt": "2024-03-09T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-09T14:00:00Z",
+                            "endsAt": "2024-03-09T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-09T16:18:00Z",
+                            "endsAt": "2024-03-09T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20614680,
+                            "finishSeconds": 20614680,
+                            "startsAt": "2024-03-09T16:00:00Z",
+                            "endsAt": "2024-03-09T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-09T16:00:00Z",
+                            "endsAt": "2024-03-09T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-09T16:00:00Z",
+                            "endsAt": "2024-03-09T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-09T18:00:00Z",
+                            "endsAt": "2024-03-09T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 3240,
+                            "finishSeconds": 3240,
+                            "startsAt": "2024-03-09T18:00:00Z",
+                            "endsAt": "2024-03-09T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird TD2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird TD2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-09T18:00:00Z",
+                            "endsAt": "2024-03-09T19:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1388880,
+                            "finishSeconds": 1391400,
+                            "startsAt": "2024-03-09T18:00:00Z",
+                            "endsAt": "2024-03-09T18:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19522440,
+                            "finishSeconds": 19522440,
+                            "startsAt": "2024-03-09T19:00:00Z",
+                            "endsAt": "2024-03-09T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N211MB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-09T19:00:00Z",
+                            "endsAt": "2024-03-09T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1391400,
+                            "finishSeconds": 1394280,
+                            "startsAt": "2024-03-09T20:00:00Z",
+                            "endsAt": "2024-03-09T20:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1394280,
+                            "finishSeconds": 1397520,
+                            "startsAt": "2024-03-09T20:00:00Z",
+                            "endsAt": "2024-03-09T20:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-09T20:00:00Z",
+                            "endsAt": "2024-03-09T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-10T11:00:00Z",
+                            "endsAt": "2024-03-10T11:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-10T11:00:00Z",
+                            "endsAt": "2024-03-10T12:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-10T13:00:00Z",
+                            "endsAt": "2024-03-10T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-10T13:30:00Z",
+                            "endsAt": "2024-03-10T14:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-10T13:00:00Z",
+                            "endsAt": "2024-03-10T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42206760,
+                            "finishSeconds": 42209280,
+                            "startsAt": "2024-03-10T13:00:00Z",
+                            "endsAt": "2024-03-10T13:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1397520,
+                            "finishSeconds": 1401120,
+                            "startsAt": "2024-03-10T13:00:00Z",
+                            "endsAt": "2024-03-10T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-10T14:00:00Z",
+                            "endsAt": "2024-03-10T15:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-10T14:00:00Z",
+                            "endsAt": "2024-03-10T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-10T15:00:00Z",
+                            "endsAt": "2024-03-10T16:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1401120,
+                            "finishSeconds": 1401120,
+                            "startsAt": "2024-03-10T15:00:00Z",
+                            "endsAt": "2024-03-10T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19321560,
+                            "finishSeconds": 19325160,
+                            "startsAt": "2024-03-10T16:00:00Z",
+                            "endsAt": "2024-03-10T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19522440,
+                            "finishSeconds": 19527120,
+                            "startsAt": "2024-03-10T15:48:00Z",
+                            "endsAt": "2024-03-10T17:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42209280,
+                            "finishSeconds": 42213600,
+                            "startsAt": "2024-03-10T15:48:00Z",
+                            "endsAt": "2024-03-10T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-10T17:00:00Z",
+                            "endsAt": "2024-03-10T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19065600,
+                            "finishSeconds": 19069920,
+                            "startsAt": "2024-03-10T17:00:00Z",
+                            "endsAt": "2024-03-10T18:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-10T18:00:00Z",
+                            "endsAt": "2024-03-10T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-10T18:00:00Z",
+                            "endsAt": "2024-03-10T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1401120,
+                            "finishSeconds": 1405440,
+                            "startsAt": "2024-03-10T19:00:00Z",
+                            "endsAt": "2024-03-10T20:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24689880,
+                            "finishSeconds": 24694560,
+                            "startsAt": "2024-03-10T19:00:00Z",
+                            "endsAt": "2024-03-10T20:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20614680,
+                            "finishSeconds": 20619720,
+                            "startsAt": "2024-03-10T19:00:00Z",
+                            "endsAt": "2024-03-10T20:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19325160,
+                            "finishSeconds": 19329120,
+                            "startsAt": "2024-03-10T20:00:00Z",
+                            "endsAt": "2024-03-10T21:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1405440,
+                            "finishSeconds": 1408680,
+                            "startsAt": "2024-03-10T21:00:00Z",
+                            "endsAt": "2024-03-10T21:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20619720,
+                            "finishSeconds": 20620800,
+                            "startsAt": "2024-03-11T00:00:00Z",
+                            "endsAt": "2024-03-11T00:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42213600,
+                            "finishSeconds": 42219360,
+                            "startsAt": "2024-03-11T10:00:00Z",
+                            "endsAt": "2024-03-11T11:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-11T13:00:00Z",
+                            "endsAt": "2024-03-11T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19069920,
+                            "finishSeconds": 19072080,
+                            "startsAt": "2024-03-11T11:36:00Z",
+                            "endsAt": "2024-03-11T12:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20620800,
+                            "finishSeconds": 20625480,
+                            "startsAt": "2024-03-11T11:12:00Z",
+                            "endsAt": "2024-03-11T12:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24694560,
+                            "finishSeconds": 24701040,
+                            "startsAt": "2024-03-11T11:48:00Z",
+                            "endsAt": "2024-03-11T13:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19329120,
+                            "finishSeconds": 19334880,
+                            "startsAt": "2024-03-11T11:36:00Z",
+                            "endsAt": "2024-03-11T13:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19527120,
+                            "finishSeconds": 19533600,
+                            "startsAt": "2024-03-11T11:36:00Z",
+                            "endsAt": "2024-03-11T13:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42219360,
+                            "finishSeconds": 42224760,
+                            "startsAt": "2024-03-11T12:00:00Z",
+                            "endsAt": "2024-03-11T13:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-11T12:00:00Z",
+                            "endsAt": "2024-03-11T12:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20625480,
+                            "finishSeconds": 20631240,
+                            "startsAt": "2024-03-11T12:48:00Z",
+                            "endsAt": "2024-03-11T14:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1626840,
+                            "finishSeconds": 1634400,
+                            "startsAt": "2024-03-11T13:24:00Z",
+                            "endsAt": "2024-03-11T15:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-11T14:00:00Z",
+                            "endsAt": "2024-03-11T15:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19533600,
+                            "finishSeconds": 19538280,
+                            "startsAt": "2024-03-11T14:06:00Z",
+                            "endsAt": "2024-03-11T15:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42224760,
+                            "finishSeconds": 42229440,
+                            "startsAt": "2024-03-11T14:06:00Z",
+                            "endsAt": "2024-03-11T15:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19334880,
+                            "finishSeconds": 19339920,
+                            "startsAt": "2024-03-11T14:00:00Z",
+                            "endsAt": "2024-03-11T15:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-11T16:00:00Z",
+                            "endsAt": "2024-03-11T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24701040,
+                            "finishSeconds": 24706080,
+                            "startsAt": "2024-03-11T15:00:00Z",
+                            "endsAt": "2024-03-11T16:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-11T15:00:00Z",
+                            "endsAt": "2024-03-11T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20631240,
+                            "finishSeconds": 20640240,
+                            "startsAt": "2024-03-11T15:06:00Z",
+                            "endsAt": "2024-03-11T17:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19339920,
+                            "finishSeconds": 19344240,
+                            "startsAt": "2024-03-11T16:00:00Z",
+                            "endsAt": "2024-03-11T17:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1634400,
+                            "finishSeconds": 1640160,
+                            "startsAt": "2024-03-11T16:18:00Z",
+                            "endsAt": "2024-03-11T17:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19538280,
+                            "finishSeconds": 19543320,
+                            "startsAt": "2024-03-11T16:18:00Z",
+                            "endsAt": "2024-03-11T17:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42229440,
+                            "finishSeconds": 42235200,
+                            "startsAt": "2024-03-11T16:00:00Z",
+                            "endsAt": "2024-03-11T17:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24706080,
+                            "finishSeconds": 24713280,
+                            "startsAt": "2024-03-11T17:06:00Z",
+                            "endsAt": "2024-03-11T19:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-11T17:00:00Z",
+                            "endsAt": "2024-03-11T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-11T17:00:00Z",
+                            "endsAt": "2024-03-11T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-11T18:00:00Z",
+                            "endsAt": "2024-03-11T19:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19344240,
+                            "finishSeconds": 19348560,
+                            "startsAt": "2024-03-11T18:00:00Z",
+                            "endsAt": "2024-03-11T19:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42235200,
+                            "finishSeconds": 42239160,
+                            "startsAt": "2024-03-11T18:00:00Z",
+                            "endsAt": "2024-03-11T19:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-11T18:00:00Z",
+                            "endsAt": "2024-03-11T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-11T18:00:00Z",
+                            "endsAt": "2024-03-11T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20640240,
+                            "finishSeconds": 20646720,
+                            "startsAt": "2024-03-11T19:00:00Z",
+                            "endsAt": "2024-03-11T20:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19072440,
+                            "finishSeconds": 19077120,
+                            "startsAt": "2024-03-11T19:00:00Z",
+                            "endsAt": "2024-03-11T20:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-11T19:00:00Z",
+                            "endsAt": "2024-03-11T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24713280,
+                            "finishSeconds": 24717600,
+                            "startsAt": "2024-03-11T19:48:00Z",
+                            "endsAt": "2024-03-11T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19543320,
+                            "finishSeconds": 19548720,
+                            "startsAt": "2024-03-11T20:12:00Z",
+                            "endsAt": "2024-03-11T21:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1408680,
+                            "finishSeconds": 1411560,
+                            "startsAt": "2024-03-11T20:00:00Z",
+                            "endsAt": "2024-03-11T20:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19348560,
+                            "finishSeconds": 19354320,
+                            "startsAt": "2024-03-11T20:00:00Z",
+                            "endsAt": "2024-03-11T21:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1640160,
+                            "finishSeconds": 1645920,
+                            "startsAt": "2024-03-11T19:48:00Z",
+                            "endsAt": "2024-03-11T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42239160,
+                            "finishSeconds": 42244200,
+                            "startsAt": "2024-03-11T20:24:00Z",
+                            "endsAt": "2024-03-11T21:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-11T20:00:00Z",
+                            "endsAt": "2024-03-11T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20646720,
+                            "finishSeconds": 20652480,
+                            "startsAt": "2024-03-11T21:30:00Z",
+                            "endsAt": "2024-03-11T23:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19354320,
+                            "finishSeconds": 19360080,
+                            "startsAt": "2024-03-11T22:00:00Z",
+                            "endsAt": "2024-03-11T23:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42244200,
+                            "finishSeconds": 42251040,
+                            "startsAt": "2024-03-11T23:00:00Z",
+                            "endsAt": "2024-03-12T00:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20652480,
+                            "finishSeconds": 20659320,
+                            "startsAt": "2024-03-11T23:00:00Z",
+                            "endsAt": "2024-03-12T00:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-12T11:00:00Z",
+                            "endsAt": "2024-03-12T11:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20659320,
+                            "finishSeconds": 20668320,
+                            "startsAt": "2024-03-12T11:00:00Z",
+                            "endsAt": "2024-03-12T13:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19076760,
+                            "finishSeconds": 19088280,
+                            "startsAt": "2024-03-12T12:30:00Z",
+                            "endsAt": "2024-03-12T15:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19548720,
+                            "finishSeconds": 19555560,
+                            "startsAt": "2024-03-12T11:00:00Z",
+                            "endsAt": "2024-03-12T12:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-12T11:42:00Z",
+                            "endsAt": "2024-03-12T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24717600,
+                            "finishSeconds": 24723360,
+                            "startsAt": "2024-03-12T11:00:00Z",
+                            "endsAt": "2024-03-12T12:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-12T12:00:00Z",
+                            "endsAt": "2024-03-12T12:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24723360,
+                            "finishSeconds": 24729840,
+                            "startsAt": "2024-03-12T14:48:00Z",
+                            "endsAt": "2024-03-12T16:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-12T14:00:00Z",
+                            "endsAt": "2024-03-12T15:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42251040,
+                            "finishSeconds": 42254640,
+                            "startsAt": "2024-03-12T14:00:00Z",
+                            "endsAt": "2024-03-12T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1645920,
+                            "finishSeconds": 1654920,
+                            "startsAt": "2024-03-12T14:00:00Z",
+                            "endsAt": "2024-03-12T16:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1414800,
+                            "finishSeconds": 1422000,
+                            "startsAt": "2024-03-12T14:00:00Z",
+                            "endsAt": "2024-03-12T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-12T14:00:00Z",
+                            "endsAt": "2024-03-12T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19360080,
+                            "finishSeconds": 19365120,
+                            "startsAt": "2024-03-12T15:00:00Z",
+                            "endsAt": "2024-03-12T16:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20668320,
+                            "finishSeconds": 20673360,
+                            "startsAt": "2024-03-12T15:00:00Z",
+                            "endsAt": "2024-03-12T16:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-12T15:00:00Z",
+                            "endsAt": "2024-03-12T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19555560,
+                            "finishSeconds": 19560600,
+                            "startsAt": "2024-03-12T16:00:00Z",
+                            "endsAt": "2024-03-12T17:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-12T16:00:00Z",
+                            "endsAt": "2024-03-12T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-12T16:00:00Z",
+                            "endsAt": "2024-03-12T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19088280,
+                            "finishSeconds": 19094040,
+                            "startsAt": "2024-03-12T16:00:00Z",
+                            "endsAt": "2024-03-12T17:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19365120,
+                            "finishSeconds": 19369800,
+                            "startsAt": "2024-03-12T17:00:00Z",
+                            "endsAt": "2024-03-12T18:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-12T17:00:00Z",
+                            "endsAt": "2024-03-12T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1422360,
+                            "finishSeconds": 1427400,
+                            "startsAt": "2024-03-12T17:00:00Z",
+                            "endsAt": "2024-03-12T18:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24729840,
+                            "finishSeconds": 24733800,
+                            "startsAt": "2024-03-12T18:00:00Z",
+                            "endsAt": "2024-03-12T19:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-12T19:00:00Z",
+                            "endsAt": "2024-03-12T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-12T18:00:00Z",
+                            "endsAt": "2024-03-12T19:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1654920,
+                            "finishSeconds": 1657440,
+                            "startsAt": "2024-03-12T19:30:00Z",
+                            "endsAt": "2024-03-12T20:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-12T18:30:00Z",
+                            "endsAt": "2024-03-12T18:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19369800,
+                            "finishSeconds": 19376640,
+                            "startsAt": "2024-03-12T19:30:00Z",
+                            "endsAt": "2024-03-12T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42254640,
+                            "finishSeconds": 42259680,
+                            "startsAt": "2024-03-12T19:00:00Z",
+                            "endsAt": "2024-03-12T20:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-12T20:00:00Z",
+                            "endsAt": "2024-03-12T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24733800,
+                            "finishSeconds": 24739560,
+                            "startsAt": "2024-03-12T20:00:00Z",
+                            "endsAt": "2024-03-12T21:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-12T20:00:00Z",
+                            "endsAt": "2024-03-12T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19094040,
+                            "finishSeconds": 19100160,
+                            "startsAt": "2024-03-12T20:00:00Z",
+                            "endsAt": "2024-03-12T21:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20673360,
+                            "finishSeconds": 20678040,
+                            "startsAt": "2024-03-12T21:12:00Z",
+                            "endsAt": "2024-03-12T22:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1427400,
+                            "finishSeconds": 1433160,
+                            "startsAt": "2024-03-12T21:30:00Z",
+                            "endsAt": "2024-03-12T23:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19560600,
+                            "finishSeconds": 19566000,
+                            "startsAt": "2024-03-12T22:00:00Z",
+                            "endsAt": "2024-03-12T23:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19100160,
+                            "finishSeconds": 19105200,
+                            "startsAt": "2024-03-12T23:00:00Z",
+                            "endsAt": "2024-03-13T00:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20678040,
+                            "finishSeconds": 20684160,
+                            "startsAt": "2024-03-13T00:00:00Z",
+                            "endsAt": "2024-03-13T01:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44275680,
+                            "finishSeconds": 44284680,
+                            "startsAt": "2024-03-13T10:36:00Z",
+                            "endsAt": "2024-03-13T13:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19105200,
+                            "finishSeconds": 19109880,
+                            "startsAt": "2024-03-13T11:00:00Z",
+                            "endsAt": "2024-03-13T12:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42259680,
+                            "finishSeconds": 42268320,
+                            "startsAt": "2024-03-13T11:30:00Z",
+                            "endsAt": "2024-03-13T13:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19376640,
+                            "finishSeconds": 19385280,
+                            "startsAt": "2024-03-13T11:00:00Z",
+                            "endsAt": "2024-03-13T13:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1657440,
+                            "finishSeconds": 1662120,
+                            "startsAt": "2024-03-13T11:30:00Z",
+                            "endsAt": "2024-03-13T12:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19566000,
+                            "finishSeconds": 19571400,
+                            "startsAt": "2024-03-13T12:00:00Z",
+                            "endsAt": "2024-03-13T13:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-13T12:00:00Z",
+                            "endsAt": "2024-03-13T12:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19109880,
+                            "finishSeconds": 19119600,
+                            "startsAt": "2024-03-13T13:00:00Z",
+                            "endsAt": "2024-03-13T15:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-13T14:06:00Z",
+                            "endsAt": "2024-03-13T14:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-13T14:12:00Z",
+                            "endsAt": "2024-03-13T14:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1434600,
+                            "finishSeconds": 1441800,
+                            "startsAt": "2024-03-13T14:12:00Z",
+                            "endsAt": "2024-03-13T16:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19385280,
+                            "finishSeconds": 19391400,
+                            "startsAt": "2024-03-13T14:12:00Z",
+                            "endsAt": "2024-03-13T15:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42268320,
+                            "finishSeconds": 42274080,
+                            "startsAt": "2024-03-13T14:42:00Z",
+                            "endsAt": "2024-03-13T16:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20684160,
+                            "finishSeconds": 20688840,
+                            "startsAt": "2024-03-13T15:00:00Z",
+                            "endsAt": "2024-03-13T16:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-13T16:00:00Z",
+                            "endsAt": "2024-03-13T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-13T16:30:00Z",
+                            "endsAt": "2024-03-13T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-13T17:00:00Z",
+                            "endsAt": "2024-03-13T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42274080,
+                            "finishSeconds": 42282360,
+                            "startsAt": "2024-03-13T17:12:00Z",
+                            "endsAt": "2024-03-13T19:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-13T18:24:00Z",
+                            "endsAt": "2024-03-13T18:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20688840,
+                            "finishSeconds": 20693880,
+                            "startsAt": "2024-03-13T18:24:00Z",
+                            "endsAt": "2024-03-13T19:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19391400,
+                            "finishSeconds": 19393200,
+                            "startsAt": "2024-03-13T17:36:00Z",
+                            "endsAt": "2024-03-13T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19571400,
+                            "finishSeconds": 19576080,
+                            "startsAt": "2024-03-13T18:24:00Z",
+                            "endsAt": "2024-03-13T19:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1662120,
+                            "finishSeconds": 1662120,
+                            "startsAt": "2024-03-13T19:00:00Z",
+                            "endsAt": "2024-03-13T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19119600,
+                            "finishSeconds": 19124280,
+                            "startsAt": "2024-03-13T18:54:00Z",
+                            "endsAt": "2024-03-13T20:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1441800,
+                            "finishSeconds": 1443960,
+                            "startsAt": "2024-03-13T20:18:00Z",
+                            "endsAt": "2024-03-13T20:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19576080,
+                            "finishSeconds": 19581480,
+                            "startsAt": "2024-03-13T19:24:00Z",
+                            "endsAt": "2024-03-13T20:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20693880,
+                            "finishSeconds": 20700360,
+                            "startsAt": "2024-03-13T20:18:00Z",
+                            "endsAt": "2024-03-13T22:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-13T22:00:00Z",
+                            "endsAt": "2024-03-13T23:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42282360,
+                            "finishSeconds": 42286320,
+                            "startsAt": "2024-03-13T21:00:00Z",
+                            "endsAt": "2024-03-13T22:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1443960,
+                            "finishSeconds": 1446840,
+                            "startsAt": "2024-03-13T21:00:00Z",
+                            "endsAt": "2024-03-13T21:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1662120,
+                            "finishSeconds": 1667160,
+                            "startsAt": "2024-03-13T21:30:00Z",
+                            "endsAt": "2024-03-13T22:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-13T23:00:00Z",
+                            "endsAt": "2024-03-13T23:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1446840,
+                            "finishSeconds": 1450800,
+                            "startsAt": "2024-03-13T22:18:00Z",
+                            "endsAt": "2024-03-13T23:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20700360,
+                            "finishSeconds": 20704680,
+                            "startsAt": "2024-03-13T23:12:00Z",
+                            "endsAt": "2024-03-14T00:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-14T01:00:00Z",
+                            "endsAt": "2024-03-14T01:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19393200,
+                            "finishSeconds": 19397520,
+                            "startsAt": "2024-03-14T11:24:00Z",
+                            "endsAt": "2024-03-14T12:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42286320,
+                            "finishSeconds": 42290280,
+                            "startsAt": "2024-03-14T11:06:00Z",
+                            "endsAt": "2024-03-14T12:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20704680,
+                            "finishSeconds": 20708640,
+                            "startsAt": "2024-03-14T11:06:00Z",
+                            "endsAt": "2024-03-14T12:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1450800,
+                            "finishSeconds": 1454040,
+                            "startsAt": "2024-03-14T11:00:00Z",
+                            "endsAt": "2024-03-14T11:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1667160,
+                            "finishSeconds": 1672560,
+                            "startsAt": "2024-03-14T11:36:00Z",
+                            "endsAt": "2024-03-14T13:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19581480,
+                            "finishSeconds": 19585800,
+                            "startsAt": "2024-03-14T13:06:00Z",
+                            "endsAt": "2024-03-14T14:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42290280,
+                            "finishSeconds": 42298200,
+                            "startsAt": "2024-03-14T13:06:00Z",
+                            "endsAt": "2024-03-14T15:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-14T13:12:00Z",
+                            "endsAt": "2024-03-14T15:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1672560,
+                            "finishSeconds": 1678320,
+                            "startsAt": "2024-03-14T13:48:00Z",
+                            "endsAt": "2024-03-14T15:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1454040,
+                            "finishSeconds": 1460160,
+                            "startsAt": "2024-03-14T14:12:00Z",
+                            "endsAt": "2024-03-14T15:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-14T14:00:00Z",
+                            "endsAt": "2024-03-14T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20708640,
+                            "finishSeconds": 20716200,
+                            "startsAt": "2024-03-14T16:30:00Z",
+                            "endsAt": "2024-03-14T18:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-14T16:18:00Z",
+                            "endsAt": "2024-03-14T16:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-14T16:30:00Z",
+                            "endsAt": "2024-03-14T16:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-14T16:00:00Z",
+                            "endsAt": "2024-03-14T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-14T16:12:00Z",
+                            "endsAt": "2024-03-14T17:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-14T15:12:00Z",
+                            "endsAt": "2024-03-14T15:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1460160,
+                            "finishSeconds": 1464120,
+                            "startsAt": "2024-03-14T16:00:00Z",
+                            "endsAt": "2024-03-14T17:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1678320,
+                            "finishSeconds": 1685160,
+                            "startsAt": "2024-03-14T16:30:00Z",
+                            "endsAt": "2024-03-14T18:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20716200,
+                            "finishSeconds": 20721240,
+                            "startsAt": "2024-03-14T18:18:00Z",
+                            "endsAt": "2024-03-14T19:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19585800,
+                            "finishSeconds": 19590120,
+                            "startsAt": "2024-03-14T17:00:00Z",
+                            "endsAt": "2024-03-14T18:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-14T17:00:00Z",
+                            "endsAt": "2024-03-14T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-14T18:18:00Z",
+                            "endsAt": "2024-03-14T18:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-14T18:18:00Z",
+                            "endsAt": "2024-03-14T19:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1464120,
+                            "finishSeconds": 1464120,
+                            "startsAt": "2024-03-14T18:18:00Z",
+                            "endsAt": "2024-03-14T18:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-14T19:12:00Z",
+                            "endsAt": "2024-03-14T19:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1685160,
+                            "finishSeconds": 1690560,
+                            "startsAt": "2024-03-14T19:12:00Z",
+                            "endsAt": "2024-03-14T20:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19398240,
+                            "finishSeconds": 19403640,
+                            "startsAt": "2024-03-14T18:54:00Z",
+                            "endsAt": "2024-03-14T20:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20721240,
+                            "finishSeconds": 20728080,
+                            "startsAt": "2024-03-14T20:36:00Z",
+                            "endsAt": "2024-03-14T22:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19590120,
+                            "finishSeconds": 19594800,
+                            "startsAt": "2024-03-14T20:00:00Z",
+                            "endsAt": "2024-03-14T21:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-14T20:00:00Z",
+                            "endsAt": "2024-03-14T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1464120,
+                            "finishSeconds": 1470240,
+                            "startsAt": "2024-03-14T20:18:00Z",
+                            "endsAt": "2024-03-14T22:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42298200,
+                            "finishSeconds": 42298200,
+                            "startsAt": "2024-03-14T20:36:00Z",
+                            "endsAt": "2024-03-14T20:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1470240,
+                            "finishSeconds": 1472400,
+                            "startsAt": "2024-03-14T21:06:00Z",
+                            "endsAt": "2024-03-14T21:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20728080,
+                            "finishSeconds": 20737080,
+                            "startsAt": "2024-03-14T22:54:00Z",
+                            "endsAt": "2024-03-15T01:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19403640,
+                            "finishSeconds": 19407240,
+                            "startsAt": "2024-03-14T20:54:00Z",
+                            "endsAt": "2024-03-14T21:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T11:00:00Z",
+                            "endsAt": "2024-03-15T11:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20737080,
+                            "finishSeconds": 20745720,
+                            "startsAt": "2024-03-15T11:00:00Z",
+                            "endsAt": "2024-03-15T13:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T11:00:00Z",
+                            "endsAt": "2024-03-15T11:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19407240,
+                            "finishSeconds": 19418760,
+                            "startsAt": "2024-03-15T12:00:00Z",
+                            "endsAt": "2024-03-15T15:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T12:06:00Z",
+                            "endsAt": "2024-03-15T12:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19594800,
+                            "finishSeconds": 19600560,
+                            "startsAt": "2024-03-15T13:00:00Z",
+                            "endsAt": "2024-03-15T14:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T13:00:00Z",
+                            "endsAt": "2024-03-15T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T14:00:00Z",
+                            "endsAt": "2024-03-15T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T14:00:00Z",
+                            "endsAt": "2024-03-15T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42298200,
+                            "finishSeconds": 42301800,
+                            "startsAt": "2024-03-15T14:00:00Z",
+                            "endsAt": "2024-03-15T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T14:00:00Z",
+                            "endsAt": "2024-03-15T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20745720,
+                            "finishSeconds": 20750040,
+                            "startsAt": "2024-03-15T15:00:00Z",
+                            "endsAt": "2024-03-15T16:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42301800,
+                            "finishSeconds": 42305040,
+                            "startsAt": "2024-03-15T15:00:00Z",
+                            "endsAt": "2024-03-15T15:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1471680,
+                            "finishSeconds": 1475640,
+                            "startsAt": "2024-03-15T15:00:00Z",
+                            "endsAt": "2024-03-15T16:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T15:00:00Z",
+                            "endsAt": "2024-03-15T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 3240,
+                            "finishSeconds": 7200,
+                            "startsAt": "2024-03-15T17:00:00Z",
+                            "endsAt": "2024-03-15T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird TD2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird TD2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19600560,
+                            "finishSeconds": 19600560,
+                            "startsAt": "2024-03-15T15:00:00Z",
+                            "endsAt": "2024-03-15T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T14:36:00Z",
+                            "endsAt": "2024-03-15T14:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T16:00:00Z",
+                            "endsAt": "2024-03-15T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19418760,
+                            "finishSeconds": 19422720,
+                            "startsAt": "2024-03-15T16:00:00Z",
+                            "endsAt": "2024-03-15T17:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T17:00:00Z",
+                            "endsAt": "2024-03-15T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42305040,
+                            "finishSeconds": 42309000,
+                            "startsAt": "2024-03-15T17:00:00Z",
+                            "endsAt": "2024-03-15T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1475640,
+                            "finishSeconds": 1479600,
+                            "startsAt": "2024-03-15T17:00:00Z",
+                            "endsAt": "2024-03-15T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20750040,
+                            "finishSeconds": 20755440,
+                            "startsAt": "2024-03-15T17:00:00Z",
+                            "endsAt": "2024-03-15T18:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T18:00:00Z",
+                            "endsAt": "2024-03-15T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42309000,
+                            "finishSeconds": 42312960,
+                            "startsAt": "2024-03-15T19:00:00Z",
+                            "endsAt": "2024-03-15T20:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T20:00:00Z",
+                            "endsAt": "2024-03-15T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19422720,
+                            "finishSeconds": 19426680,
+                            "startsAt": "2024-03-15T19:00:00Z",
+                            "endsAt": "2024-03-15T20:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T19:00:00Z",
+                            "endsAt": "2024-03-15T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1690560,
+                            "finishSeconds": 1699200,
+                            "startsAt": "2024-03-15T19:00:00Z",
+                            "endsAt": "2024-03-15T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20755440,
+                            "finishSeconds": 20765520,
+                            "startsAt": "2024-03-15T20:00:00Z",
+                            "endsAt": "2024-03-15T22:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-15T22:00:00Z",
+                            "endsAt": "2024-03-15T23:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1483920,
+                            "finishSeconds": 1486440,
+                            "startsAt": "2024-03-15T22:00:00Z",
+                            "endsAt": "2024-03-15T22:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 7200,
+                            "finishSeconds": 7200,
+                            "startsAt": "2024-03-15T22:00:00Z",
+                            "endsAt": "2024-03-15T22:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird TD2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird TD2"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19125360,
+                            "finishSeconds": 19133280,
+                            "startsAt": "2024-03-16T11:00:00Z",
+                            "endsAt": "2024-03-16T13:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T11:00:00Z",
+                            "endsAt": "2024-03-16T11:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19600560,
+                            "finishSeconds": 19606320,
+                            "startsAt": "2024-03-16T11:00:00Z",
+                            "endsAt": "2024-03-16T12:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20765520,
+                            "finishSeconds": 20769840,
+                            "startsAt": "2024-03-16T11:00:00Z",
+                            "endsAt": "2024-03-16T12:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1486440,
+                            "finishSeconds": 1491480,
+                            "startsAt": "2024-03-16T13:00:00Z",
+                            "endsAt": "2024-03-16T14:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T13:00:00Z",
+                            "endsAt": "2024-03-16T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T13:00:00Z",
+                            "endsAt": "2024-03-16T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T14:00:00Z",
+                            "endsAt": "2024-03-16T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T15:00:00Z",
+                            "endsAt": "2024-03-16T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T15:00:00Z",
+                            "endsAt": "2024-03-16T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T17:00:00Z",
+                            "endsAt": "2024-03-16T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T15:00:00Z",
+                            "endsAt": "2024-03-16T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19426680,
+                            "finishSeconds": 19430280,
+                            "startsAt": "2024-03-16T15:00:00Z",
+                            "endsAt": "2024-03-16T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T15:00:00Z",
+                            "endsAt": "2024-03-16T15:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19606320,
+                            "finishSeconds": 19610640,
+                            "startsAt": "2024-03-16T16:00:00Z",
+                            "endsAt": "2024-03-16T17:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T16:00:00Z",
+                            "endsAt": "2024-03-16T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T17:00:00Z",
+                            "endsAt": "2024-03-16T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T17:00:00Z",
+                            "endsAt": "2024-03-16T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19430280,
+                            "finishSeconds": 19435680,
+                            "startsAt": "2024-03-16T17:30:00Z",
+                            "endsAt": "2024-03-16T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T17:36:00Z",
+                            "endsAt": "2024-03-16T17:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1491480,
+                            "finishSeconds": 1496520,
+                            "startsAt": "2024-03-16T19:00:00Z",
+                            "endsAt": "2024-03-16T20:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T19:00:00Z",
+                            "endsAt": "2024-03-16T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T19:30:00Z",
+                            "endsAt": "2024-03-16T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1699200,
+                            "finishSeconds": 1704960,
+                            "startsAt": "2024-03-16T19:00:00Z",
+                            "endsAt": "2024-03-16T20:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19610640,
+                            "finishSeconds": 19614960,
+                            "startsAt": "2024-03-16T20:00:00Z",
+                            "endsAt": "2024-03-16T21:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-16T20:00:00Z",
+                            "endsAt": "2024-03-16T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1496520,
+                            "finishSeconds": 1498320,
+                            "startsAt": "2024-03-16T21:00:00Z",
+                            "endsAt": "2024-03-16T21:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1704960,
+                            "finishSeconds": 1712880,
+                            "startsAt": "2024-03-16T21:00:00Z",
+                            "endsAt": "2024-03-16T23:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20769840,
+                            "finishSeconds": 20774520,
+                            "startsAt": "2024-03-16T22:00:00Z",
+                            "endsAt": "2024-03-16T23:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-17T11:00:00Z",
+                            "endsAt": "2024-03-17T11:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1498320,
+                            "finishSeconds": 1501920,
+                            "startsAt": "2024-03-17T11:00:00Z",
+                            "endsAt": "2024-03-17T12:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-17T13:00:00Z",
+                            "endsAt": "2024-03-17T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-17T13:00:00Z",
+                            "endsAt": "2024-03-17T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-17T13:00:00Z",
+                            "endsAt": "2024-03-17T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-17T13:24:00Z",
+                            "endsAt": "2024-03-17T14:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-17T14:00:00Z",
+                            "endsAt": "2024-03-17T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-17T15:00:00Z",
+                            "endsAt": "2024-03-17T16:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-17T15:00:00Z",
+                            "endsAt": "2024-03-17T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20774520,
+                            "finishSeconds": 20780640,
+                            "startsAt": "2024-03-17T15:00:00Z",
+                            "endsAt": "2024-03-17T16:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19133280,
+                            "finishSeconds": 19136520,
+                            "startsAt": "2024-03-17T15:00:00Z",
+                            "endsAt": "2024-03-17T15:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19614960,
+                            "finishSeconds": 19620000,
+                            "startsAt": "2024-03-17T16:00:00Z",
+                            "endsAt": "2024-03-17T17:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-17T16:00:00Z",
+                            "endsAt": "2024-03-17T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24740640,
+                            "finishSeconds": 24746040,
+                            "startsAt": "2024-03-17T17:00:00Z",
+                            "endsAt": "2024-03-17T18:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42312960,
+                            "finishSeconds": 42319800,
+                            "startsAt": "2024-03-17T17:00:00Z",
+                            "endsAt": "2024-03-17T18:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19435680,
+                            "finishSeconds": 19440000,
+                            "startsAt": "2024-03-17T17:00:00Z",
+                            "endsAt": "2024-03-17T18:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19136520,
+                            "finishSeconds": 19141200,
+                            "startsAt": "2024-03-17T18:00:00Z",
+                            "endsAt": "2024-03-17T19:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20780640,
+                            "finishSeconds": 20784240,
+                            "startsAt": "2024-03-17T18:00:00Z",
+                            "endsAt": "2024-03-17T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-17T19:00:00Z",
+                            "endsAt": "2024-03-17T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19620000,
+                            "finishSeconds": 19625400,
+                            "startsAt": "2024-03-17T19:00:00Z",
+                            "endsAt": "2024-03-17T20:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24746040,
+                            "finishSeconds": 24750360,
+                            "startsAt": "2024-03-17T19:00:00Z",
+                            "endsAt": "2024-03-17T20:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19141200,
+                            "finishSeconds": 19147320,
+                            "startsAt": "2024-03-17T20:00:00Z",
+                            "endsAt": "2024-03-17T21:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42319800,
+                            "finishSeconds": 42324840,
+                            "startsAt": "2024-03-17T20:00:00Z",
+                            "endsAt": "2024-03-17T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19440000,
+                            "finishSeconds": 19449720,
+                            "startsAt": "2024-03-17T20:00:00Z",
+                            "endsAt": "2024-03-17T22:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19625400,
+                            "finishSeconds": 19631160,
+                            "startsAt": "2024-03-17T21:00:00Z",
+                            "endsAt": "2024-03-17T22:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24750360,
+                            "finishSeconds": 24753600,
+                            "startsAt": "2024-03-17T22:00:00Z",
+                            "endsAt": "2024-03-17T22:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19449720,
+                            "finishSeconds": 19453320,
+                            "startsAt": "2024-03-18T11:00:00Z",
+                            "endsAt": "2024-03-18T12:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1509480,
+                            "finishSeconds": 1514160,
+                            "startsAt": "2024-03-18T11:00:00Z",
+                            "endsAt": "2024-03-18T12:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T12:00:00Z",
+                            "endsAt": "2024-03-18T12:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T12:24:00Z",
+                            "endsAt": "2024-03-18T12:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T12:00:00Z",
+                            "endsAt": "2024-03-18T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T15:00:00Z",
+                            "endsAt": "2024-03-18T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T14:06:00Z",
+                            "endsAt": "2024-03-18T14:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T14:00:00Z",
+                            "endsAt": "2024-03-18T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1514160,
+                            "finishSeconds": 1519920,
+                            "startsAt": "2024-03-18T14:06:00Z",
+                            "endsAt": "2024-03-18T15:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T14:00:00Z",
+                            "endsAt": "2024-03-18T15:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T14:00:00Z",
+                            "endsAt": "2024-03-18T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T15:00:00Z",
+                            "endsAt": "2024-03-18T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T15:00:00Z",
+                            "endsAt": "2024-03-18T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T15:00:00Z",
+                            "endsAt": "2024-03-18T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T16:12:00Z",
+                            "endsAt": "2024-03-18T16:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1519920,
+                            "finishSeconds": 1524600,
+                            "startsAt": "2024-03-18T16:30:00Z",
+                            "endsAt": "2024-03-18T17:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T17:00:00Z",
+                            "endsAt": "2024-03-18T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T17:00:00Z",
+                            "endsAt": "2024-03-18T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T18:00:00Z",
+                            "endsAt": "2024-03-18T19:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T19:06:00Z",
+                            "endsAt": "2024-03-18T19:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1524600,
+                            "finishSeconds": 1530000,
+                            "startsAt": "2024-03-18T18:12:00Z",
+                            "endsAt": "2024-03-18T19:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-18T20:06:00Z",
+                            "endsAt": "2024-03-18T20:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24753600,
+                            "finishSeconds": 24758640,
+                            "startsAt": "2024-03-19T10:42:00Z",
+                            "endsAt": "2024-03-19T12:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {},
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T12:00:00Z",
+                            "endsAt": "2024-03-19T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24758640,
+                            "finishSeconds": 24765120,
+                            "startsAt": "2024-03-19T13:00:00Z",
+                            "endsAt": "2024-03-19T14:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T14:00:00Z",
+                            "endsAt": "2024-03-19T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T14:54:00Z",
+                            "endsAt": "2024-03-19T14:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T14:06:00Z",
+                            "endsAt": "2024-03-19T14:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42324840,
+                            "finishSeconds": 42328440,
+                            "startsAt": "2024-03-19T14:36:00Z",
+                            "endsAt": "2024-03-19T15:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44284680,
+                            "finishSeconds": 44318520,
+                            "startsAt": "2024-03-19T14:36:00Z",
+                            "endsAt": "2024-03-20T00:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T15:00:00Z",
+                            "endsAt": "2024-03-19T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T16:24:00Z",
+                            "endsAt": "2024-03-19T16:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T16:00:00Z",
+                            "endsAt": "2024-03-19T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T16:24:00Z",
+                            "endsAt": "2024-03-19T16:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T16:24:00Z",
+                            "endsAt": "2024-03-19T16:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20784240,
+                            "finishSeconds": 20787480,
+                            "startsAt": "2024-03-19T17:12:00Z",
+                            "endsAt": "2024-03-19T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T17:00:00Z",
+                            "endsAt": "2024-03-19T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T17:12:00Z",
+                            "endsAt": "2024-03-19T17:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42328440,
+                            "finishSeconds": 42336720,
+                            "startsAt": "2024-03-19T17:00:00Z",
+                            "endsAt": "2024-03-19T19:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T17:30:00Z",
+                            "endsAt": "2024-03-19T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T18:24:00Z",
+                            "endsAt": "2024-03-19T18:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T19:00:00Z",
+                            "endsAt": "2024-03-19T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T20:00:00Z",
+                            "endsAt": "2024-03-19T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1553040,
+                            "finishSeconds": 1558800,
+                            "startsAt": "2024-03-19T19:00:00Z",
+                            "endsAt": "2024-03-19T20:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24765120,
+                            "finishSeconds": 24770520,
+                            "startsAt": "2024-03-19T20:12:00Z",
+                            "endsAt": "2024-03-19T21:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19449720,
+                            "finishSeconds": 19459800,
+                            "startsAt": "2024-03-19T19:30:00Z",
+                            "endsAt": "2024-03-19T22:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-19T20:12:00Z",
+                            "endsAt": "2024-03-19T20:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1558800,
+                            "finishSeconds": 1561680,
+                            "startsAt": "2024-03-19T22:00:00Z",
+                            "endsAt": "2024-03-19T22:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20787480,
+                            "finishSeconds": 20793960,
+                            "startsAt": "2024-03-19T20:48:00Z",
+                            "endsAt": "2024-03-19T22:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24770520,
+                            "finishSeconds": 24775920,
+                            "startsAt": "2024-03-19T23:00:00Z",
+                            "endsAt": "2024-03-20T00:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19147320,
+                            "finishSeconds": 19154880,
+                            "startsAt": "2024-03-19T20:48:00Z",
+                            "endsAt": "2024-03-19T22:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42336720,
+                            "finishSeconds": 42344640,
+                            "startsAt": "2024-03-19T20:48:00Z",
+                            "endsAt": "2024-03-19T23:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19459800,
+                            "finishSeconds": 19462680,
+                            "startsAt": "2024-03-20T10:42:00Z",
+                            "endsAt": "2024-03-20T11:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1712880,
+                            "finishSeconds": 1719360,
+                            "startsAt": "2024-03-20T11:12:00Z",
+                            "endsAt": "2024-03-20T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    },
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1719360,
+                            "finishSeconds": 1724040,
+                            "startsAt": "2024-03-20T14:18:00Z",
+                            "endsAt": "2024-03-20T15:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19154880,
+                            "finishSeconds": 19162800,
+                            "startsAt": "2024-03-20T11:12:00Z",
+                            "endsAt": "2024-03-20T13:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24775920,
+                            "finishSeconds": 24783120,
+                            "startsAt": "2024-03-20T11:36:00Z",
+                            "endsAt": "2024-03-20T13:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {},
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42344640,
+                            "finishSeconds": 42353280,
+                            "startsAt": "2024-03-20T11:36:00Z",
+                            "endsAt": "2024-03-20T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19462680,
+                            "finishSeconds": 19463400,
+                            "startsAt": "2024-03-20T12:00:00Z",
+                            "endsAt": "2024-03-20T12:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-20T12:24:00Z",
+                            "endsAt": "2024-03-20T12:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-20T13:12:00Z",
+                            "endsAt": "2024-03-20T13:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-20T14:00:00Z",
+                            "endsAt": "2024-03-20T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-20T14:00:00Z",
+                            "endsAt": "2024-03-20T14:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24783120,
+                            "finishSeconds": 24791400,
+                            "startsAt": "2024-03-20T14:00:00Z",
+                            "endsAt": "2024-03-20T16:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19463400,
+                            "finishSeconds": 19469520,
+                            "startsAt": "2024-03-20T13:36:00Z",
+                            "endsAt": "2024-03-20T15:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19162800,
+                            "finishSeconds": 19170360,
+                            "startsAt": "2024-03-20T14:00:00Z",
+                            "endsAt": "2024-03-20T16:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-20T14:30:00Z",
+                            "endsAt": "2024-03-20T15:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1724040,
+                            "finishSeconds": 1729080,
+                            "startsAt": "2024-03-20T15:00:00Z",
+                            "endsAt": "2024-03-20T16:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19469520,
+                            "finishSeconds": 19475640,
+                            "startsAt": "2024-03-20T16:12:00Z",
+                            "endsAt": "2024-03-20T17:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42353280,
+                            "finishSeconds": 42359040,
+                            "startsAt": "2024-03-20T16:12:00Z",
+                            "endsAt": "2024-03-20T17:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-20T16:00:00Z",
+                            "endsAt": "2024-03-20T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19170360,
+                            "finishSeconds": 19173960,
+                            "startsAt": "2024-03-20T17:06:00Z",
+                            "endsAt": "2024-03-20T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-20T17:30:00Z",
+                            "endsAt": "2024-03-20T18:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-20T17:06:00Z",
+                            "endsAt": "2024-03-20T17:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-20T18:00:00Z",
+                            "endsAt": "2024-03-20T19:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42359040,
+                            "finishSeconds": 42363720,
+                            "startsAt": "2024-03-20T18:00:00Z",
+                            "endsAt": "2024-03-20T19:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1729080,
+                            "finishSeconds": 1734480,
+                            "startsAt": "2024-03-20T19:00:00Z",
+                            "endsAt": "2024-03-20T20:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24791400,
+                            "finishSeconds": 24797160,
+                            "startsAt": "2024-03-20T19:12:00Z",
+                            "endsAt": "2024-03-20T20:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20793960,
+                            "finishSeconds": 20803320,
+                            "startsAt": "2024-03-20T19:18:00Z",
+                            "endsAt": "2024-03-20T21:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19173960,
+                            "finishSeconds": 19180080,
+                            "startsAt": "2024-03-20T19:18:00Z",
+                            "endsAt": "2024-03-20T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44318520,
+                            "finishSeconds": 44340480,
+                            "startsAt": "2024-03-20T19:00:00Z",
+                            "endsAt": "2024-03-21T01:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19475640,
+                            "finishSeconds": 19479600,
+                            "startsAt": "2024-03-20T20:18:00Z",
+                            "endsAt": "2024-03-20T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42363720,
+                            "finishSeconds": 42368040,
+                            "startsAt": "2024-03-20T20:00:00Z",
+                            "endsAt": "2024-03-20T21:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-20T20:18:00Z",
+                            "endsAt": "2024-03-20T22:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-20T22:00:00Z",
+                            "endsAt": "2024-03-20T22:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24797160,
+                            "finishSeconds": 24799680,
+                            "startsAt": "2024-03-20T21:18:00Z",
+                            "endsAt": "2024-03-20T22:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19180080,
+                            "finishSeconds": 19185840,
+                            "startsAt": "2024-03-20T21:00:00Z",
+                            "endsAt": "2024-03-20T22:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1581480,
+                            "finishSeconds": 1586520,
+                            "startsAt": "2024-03-20T22:00:00Z",
+                            "endsAt": "2024-03-20T23:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-20T22:00:00Z",
+                            "endsAt": "2024-03-20T22:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24799680,
+                            "finishSeconds": 24805080,
+                            "startsAt": "2024-03-20T23:00:00Z",
+                            "endsAt": "2024-03-21T00:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42368040,
+                            "finishSeconds": 42371280,
+                            "startsAt": "2024-03-21T11:06:00Z",
+                            "endsAt": "2024-03-21T12:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19479600,
+                            "finishSeconds": 19485000,
+                            "startsAt": "2024-03-21T11:12:00Z",
+                            "endsAt": "2024-03-21T12:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44340480,
+                            "finishSeconds": 44351280,
+                            "startsAt": "2024-03-21T11:12:00Z",
+                            "endsAt": "2024-03-21T14:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19185840,
+                            "finishSeconds": 19197720,
+                            "startsAt": "2024-03-21T11:12:00Z",
+                            "endsAt": "2024-03-21T14:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1734480,
+                            "finishSeconds": 1748160,
+                            "startsAt": "2024-03-21T11:12:00Z",
+                            "endsAt": "2024-03-21T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20803320,
+                            "finishSeconds": 20807640,
+                            "startsAt": "2024-03-21T11:54:00Z",
+                            "endsAt": "2024-03-21T13:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-21T13:00:00Z",
+                            "endsAt": "2024-03-21T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42371280,
+                            "finishSeconds": 42376320,
+                            "startsAt": "2024-03-21T12:36:00Z",
+                            "endsAt": "2024-03-21T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20807640,
+                            "finishSeconds": 20813400,
+                            "startsAt": "2024-03-21T14:30:00Z",
+                            "endsAt": "2024-03-21T16:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-21T14:00:00Z",
+                            "endsAt": "2024-03-21T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19483920,
+                            "finishSeconds": 19490400,
+                            "startsAt": "2024-03-21T15:54:00Z",
+                            "endsAt": "2024-03-21T17:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-21T15:06:00Z",
+                            "endsAt": "2024-03-21T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1586520,
+                            "finishSeconds": 1591200,
+                            "startsAt": "2024-03-21T15:00:00Z",
+                            "endsAt": "2024-03-21T16:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44351280,
+                            "finishSeconds": 44361000,
+                            "startsAt": "2024-03-21T15:54:00Z",
+                            "endsAt": "2024-03-21T18:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-21T15:00:00Z",
+                            "endsAt": "2024-03-21T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20813400,
+                            "finishSeconds": 20818080,
+                            "startsAt": "2024-03-21T16:00:00Z",
+                            "endsAt": "2024-03-21T17:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-21T16:00:00Z",
+                            "endsAt": "2024-03-21T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42376320,
+                            "finishSeconds": 42380640,
+                            "startsAt": "2024-03-21T16:42:00Z",
+                            "endsAt": "2024-03-21T17:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-21T16:00:00Z",
+                            "endsAt": "2024-03-21T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1596600,
+                            "finishSeconds": 1600560,
+                            "startsAt": "2024-03-21T19:48:00Z",
+                            "endsAt": "2024-03-21T20:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-21T18:00:00Z",
+                            "endsAt": "2024-03-21T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1748160,
+                            "finishSeconds": 1760400,
+                            "startsAt": "2024-03-21T17:42:00Z",
+                            "endsAt": "2024-03-21T21:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20818080,
+                            "finishSeconds": 20824200,
+                            "startsAt": "2024-03-21T18:00:00Z",
+                            "endsAt": "2024-03-21T19:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-21T18:24:00Z",
+                            "endsAt": "2024-03-21T18:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-21T19:00:00Z",
+                            "endsAt": "2024-03-21T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19490400,
+                            "finishSeconds": 19495800,
+                            "startsAt": "2024-03-21T20:36:00Z",
+                            "endsAt": "2024-03-21T22:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42380640,
+                            "finishSeconds": 42385680,
+                            "startsAt": "2024-03-21T20:00:00Z",
+                            "endsAt": "2024-03-21T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1600560,
+                            "finishSeconds": 1605600,
+                            "startsAt": "2024-03-21T20:00:00Z",
+                            "endsAt": "2024-03-21T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20824200,
+                            "finishSeconds": 20826720,
+                            "startsAt": "2024-03-21T20:42:00Z",
+                            "endsAt": "2024-03-21T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19197720,
+                            "finishSeconds": 19200960,
+                            "startsAt": "2024-03-21T20:36:00Z",
+                            "endsAt": "2024-03-21T21:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24805080,
+                            "finishSeconds": 24810120,
+                            "startsAt": "2024-03-21T21:36:00Z",
+                            "endsAt": "2024-03-21T23:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1605600,
+                            "finishSeconds": 1611360,
+                            "startsAt": "2024-03-21T22:00:00Z",
+                            "endsAt": "2024-03-21T23:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19495800,
+                            "finishSeconds": 19501200,
+                            "startsAt": "2024-03-21T21:42:00Z",
+                            "endsAt": "2024-03-21T23:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-22T14:00:00Z",
+                            "endsAt": "2024-03-22T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1611360,
+                            "finishSeconds": 1618200,
+                            "startsAt": "2024-03-22T13:00:00Z",
+                            "endsAt": "2024-03-22T14:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-22T13:00:00Z",
+                            "endsAt": "2024-03-22T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1618200,
+                            "finishSeconds": 1620720,
+                            "startsAt": "2024-03-22T16:06:00Z",
+                            "endsAt": "2024-03-22T16:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-22T16:00:00Z",
+                            "endsAt": "2024-03-22T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-22T17:18:00Z",
+                            "endsAt": "2024-03-22T18:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19200960,
+                            "finishSeconds": 19200960,
+                            "startsAt": "2024-03-22T17:12:00Z",
+                            "endsAt": "2024-03-22T17:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1620720,
+                            "finishSeconds": 1626480,
+                            "startsAt": "2024-03-22T17:12:00Z",
+                            "endsAt": "2024-03-22T18:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-22T17:00:00Z",
+                            "endsAt": "2024-03-22T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-22T17:18:00Z",
+                            "endsAt": "2024-03-22T17:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-22T18:48:00Z",
+                            "endsAt": "2024-03-22T18:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-22T18:00:00Z",
+                            "endsAt": "2024-03-22T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-22T18:18:00Z",
+                            "endsAt": "2024-03-22T18:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-22T19:00:00Z",
+                            "endsAt": "2024-03-22T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-22T21:00:00Z",
+                            "endsAt": "2024-03-22T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-22T20:36:00Z",
+                            "endsAt": "2024-03-22T20:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1632600,
+                            "finishSeconds": 1634400,
+                            "startsAt": "2024-03-22T20:36:00Z",
+                            "endsAt": "2024-03-22T21:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1634400,
+                            "finishSeconds": 1636920,
+                            "startsAt": "2024-03-22T22:00:00Z",
+                            "endsAt": "2024-03-22T22:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19200960,
+                            "finishSeconds": 19200960,
+                            "startsAt": "2024-03-22T21:06:00Z",
+                            "endsAt": "2024-03-22T21:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-22T21:06:00Z",
+                            "endsAt": "2024-03-23T02:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1634400,
+                            "finishSeconds": 1640520,
+                            "startsAt": "2024-03-23T11:00:00Z",
+                            "endsAt": "2024-03-23T12:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19200960,
+                            "finishSeconds": 19207440,
+                            "startsAt": "2024-03-23T11:00:00Z",
+                            "endsAt": "2024-03-23T12:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-23T11:00:00Z",
+                            "endsAt": "2024-03-23T11:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1760400,
+                            "finishSeconds": 1770480,
+                            "startsAt": "2024-03-23T11:00:00Z",
+                            "endsAt": "2024-03-23T13:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20826720,
+                            "finishSeconds": 20833200,
+                            "startsAt": "2024-03-23T13:00:00Z",
+                            "endsAt": "2024-03-23T14:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24810120,
+                            "finishSeconds": 24815160,
+                            "startsAt": "2024-03-23T13:00:00Z",
+                            "endsAt": "2024-03-23T14:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-23T13:30:00Z",
+                            "endsAt": "2024-03-23T15:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-23T13:00:00Z",
+                            "endsAt": "2024-03-23T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44361000,
+                            "finishSeconds": 44363520,
+                            "startsAt": "2024-03-23T14:00:00Z",
+                            "endsAt": "2024-03-23T14:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1636920,
+                            "finishSeconds": 1647360,
+                            "startsAt": "2024-03-23T14:00:00Z",
+                            "endsAt": "2024-03-23T16:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-23T15:00:00Z",
+                            "endsAt": "2024-03-23T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-23T15:00:00Z",
+                            "endsAt": "2024-03-23T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-23T15:30:00Z",
+                            "endsAt": "2024-03-23T17:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-23T15:00:00Z",
+                            "endsAt": "2024-03-23T15:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1647360,
+                            "finishSeconds": 1650240,
+                            "startsAt": "2024-03-23T16:00:00Z",
+                            "endsAt": "2024-03-23T16:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-23T16:00:00Z",
+                            "endsAt": "2024-03-23T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-23T17:00:00Z",
+                            "endsAt": "2024-03-23T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-23T17:00:00Z",
+                            "endsAt": "2024-03-23T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1650240,
+                            "finishSeconds": 1653840,
+                            "startsAt": "2024-03-23T17:00:00Z",
+                            "endsAt": "2024-03-23T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 7200,
+                            "finishSeconds": 7200,
+                            "startsAt": "2024-03-23T19:00:00Z",
+                            "endsAt": "2024-03-23T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird TD2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird TD2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1653840,
+                            "finishSeconds": 1656360,
+                            "startsAt": "2024-03-23T18:00:00Z",
+                            "endsAt": "2024-03-23T18:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-23T19:00:00Z",
+                            "endsAt": "2024-03-23T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1656360,
+                            "finishSeconds": 1658160,
+                            "startsAt": "2024-03-23T19:00:00Z",
+                            "endsAt": "2024-03-23T19:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-23T19:00:00Z",
+                            "endsAt": "2024-03-23T19:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-23T20:00:00Z",
+                            "endsAt": "2024-03-23T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-23T20:00:00Z",
+                            "endsAt": "2024-03-23T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20833200,
+                            "finishSeconds": 20839680,
+                            "startsAt": "2024-03-23T21:00:00Z",
+                            "endsAt": "2024-03-23T22:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1658160,
+                            "finishSeconds": 1662480,
+                            "startsAt": "2024-03-23T21:00:00Z",
+                            "endsAt": "2024-03-23T22:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 7200,
+                            "finishSeconds": 7200,
+                            "startsAt": "2024-03-24T11:00:00Z",
+                            "endsAt": "2024-03-24T11:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird TD2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird TD2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-24T11:00:00Z",
+                            "endsAt": "2024-03-24T12:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1662480,
+                            "finishSeconds": 1669320,
+                            "startsAt": "2024-03-24T12:00:00Z",
+                            "endsAt": "2024-03-24T13:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-24T13:00:00Z",
+                            "endsAt": "2024-03-24T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-24T13:00:00Z",
+                            "endsAt": "2024-03-24T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-24T14:00:00Z",
+                            "endsAt": "2024-03-24T15:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-24T14:30:00Z",
+                            "endsAt": "2024-03-24T14:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-24T15:00:00Z",
+                            "endsAt": "2024-03-24T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1669320,
+                            "finishSeconds": 1673280,
+                            "startsAt": "2024-03-24T15:00:00Z",
+                            "endsAt": "2024-03-24T16:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-24T15:36:00Z",
+                            "endsAt": "2024-03-24T17:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1673280,
+                            "finishSeconds": 1679400,
+                            "startsAt": "2024-03-24T19:00:00Z",
+                            "endsAt": "2024-03-24T20:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-24T20:00:00Z",
+                            "endsAt": "2024-03-24T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1679400,
+                            "finishSeconds": 1681560,
+                            "startsAt": "2024-03-24T22:00:00Z",
+                            "endsAt": "2024-03-24T22:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-24T22:00:00Z",
+                            "endsAt": "2024-03-24T22:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T10:42:00Z",
+                            "endsAt": "2024-03-25T10:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44363520,
+                            "finishSeconds": 44368920,
+                            "startsAt": "2024-03-25T11:00:00Z",
+                            "endsAt": "2024-03-25T12:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T12:00:00Z",
+                            "endsAt": "2024-03-25T13:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T12:18:00Z",
+                            "endsAt": "2024-03-25T12:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1681560,
+                            "finishSeconds": 1684440,
+                            "startsAt": "2024-03-25T12:12:00Z",
+                            "endsAt": "2024-03-25T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T12:00:00Z",
+                            "endsAt": "2024-03-25T13:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T14:00:00Z",
+                            "endsAt": "2024-03-25T15:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1684440,
+                            "finishSeconds": 1687320,
+                            "startsAt": "2024-03-25T14:24:00Z",
+                            "endsAt": "2024-03-25T15:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T14:00:00Z",
+                            "endsAt": "2024-03-25T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T15:00:00Z",
+                            "endsAt": "2024-03-25T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T16:18:00Z",
+                            "endsAt": "2024-03-25T16:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1687320,
+                            "finishSeconds": 1689120,
+                            "startsAt": "2024-03-25T16:00:00Z",
+                            "endsAt": "2024-03-25T16:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T16:18:00Z",
+                            "endsAt": "2024-03-25T17:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1689480,
+                            "finishSeconds": 1693080,
+                            "startsAt": "2024-03-25T18:30:00Z",
+                            "endsAt": "2024-03-25T19:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T18:30:00Z",
+                            "endsAt": "2024-03-25T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T18:30:00Z",
+                            "endsAt": "2024-03-25T18:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T19:00:00Z",
+                            "endsAt": "2024-03-25T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T20:24:00Z",
+                            "endsAt": "2024-03-25T20:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1692720,
+                            "finishSeconds": 1696320,
+                            "startsAt": "2024-03-25T20:24:00Z",
+                            "endsAt": "2024-03-25T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T20:00:00Z",
+                            "endsAt": "2024-03-25T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T21:00:00Z",
+                            "endsAt": "2024-03-25T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1696320,
+                            "finishSeconds": 1701360,
+                            "startsAt": "2024-03-25T21:30:00Z",
+                            "endsAt": "2024-03-25T22:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-25T22:00:00Z",
+                            "endsAt": "2024-03-25T22:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44368920,
+                            "finishSeconds": 44376840,
+                            "startsAt": "2024-03-26T11:00:00Z",
+                            "endsAt": "2024-03-26T13:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {},
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20839680,
+                            "finishSeconds": 20849400,
+                            "startsAt": "2024-03-26T11:00:00Z",
+                            "endsAt": "2024-03-26T13:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42385680,
+                            "finishSeconds": 42393240,
+                            "startsAt": "2024-03-26T12:00:00Z",
+                            "endsAt": "2024-03-26T14:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19632600,
+                            "finishSeconds": 19635480,
+                            "startsAt": "2024-03-26T12:00:00Z",
+                            "endsAt": "2024-03-26T12:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1701720,
+                            "finishSeconds": 1703160,
+                            "startsAt": "2024-03-26T12:30:00Z",
+                            "endsAt": "2024-03-26T12:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T13:00:00Z",
+                            "endsAt": "2024-03-26T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T13:00:00Z",
+                            "endsAt": "2024-03-26T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T14:00:00Z",
+                            "endsAt": "2024-03-26T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T14:06:00Z",
+                            "endsAt": "2024-03-26T16:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T14:00:00Z",
+                            "endsAt": "2024-03-26T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1703520,
+                            "finishSeconds": 1706400,
+                            "startsAt": "2024-03-26T14:00:00Z",
+                            "endsAt": "2024-03-26T14:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T15:00:00Z",
+                            "endsAt": "2024-03-26T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T15:36:00Z",
+                            "endsAt": "2024-03-26T15:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1706400,
+                            "finishSeconds": 1707840,
+                            "startsAt": "2024-03-26T15:36:00Z",
+                            "endsAt": "2024-03-26T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T16:00:00Z",
+                            "endsAt": "2024-03-26T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session E"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session E"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T16:00:00Z",
+                            "endsAt": "2024-03-26T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T16:12:00Z",
+                            "endsAt": "2024-03-26T16:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T16:12:00Z",
+                            "endsAt": "2024-03-26T16:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T19:00:00Z",
+                            "endsAt": "2024-03-26T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1707840,
+                            "finishSeconds": 1712880,
+                            "startsAt": "2024-03-26T18:00:00Z",
+                            "endsAt": "2024-03-26T19:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T18:54:00Z",
+                            "endsAt": "2024-03-26T18:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T18:00:00Z",
+                            "endsAt": "2024-03-26T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T18:54:00Z",
+                            "endsAt": "2024-03-26T18:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T18:06:00Z",
+                            "endsAt": "2024-03-26T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T19:00:00Z",
+                            "endsAt": "2024-03-26T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session F"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19207440,
+                            "finishSeconds": 19213560,
+                            "startsAt": "2024-03-26T19:00:00Z",
+                            "endsAt": "2024-03-26T20:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20849400,
+                            "finishSeconds": 20854440,
+                            "startsAt": "2024-03-26T19:00:00Z",
+                            "endsAt": "2024-03-26T20:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T19:00:00Z",
+                            "endsAt": "2024-03-26T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T20:06:00Z",
+                            "endsAt": "2024-03-26T20:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1712880,
+                            "finishSeconds": 1719360,
+                            "startsAt": "2024-03-26T20:06:00Z",
+                            "endsAt": "2024-03-26T21:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 227160,
+                            "finishSeconds": 231840,
+                            "startsAt": "2024-03-26T20:06:00Z",
+                            "endsAt": "2024-03-26T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird TD2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird TD2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19213560,
+                            "finishSeconds": 19217520,
+                            "startsAt": "2024-03-26T21:00:00Z",
+                            "endsAt": "2024-03-26T22:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-26T21:00:00Z",
+                            "endsAt": "2024-03-26T23:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1718640,
+                            "finishSeconds": 1725480,
+                            "startsAt": "2024-03-26T23:42:00Z",
+                            "endsAt": "2024-03-27T01:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19217520,
+                            "finishSeconds": 19222920,
+                            "startsAt": "2024-03-26T23:42:00Z",
+                            "endsAt": "2024-03-27T01:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1770480,
+                            "finishSeconds": 1780200,
+                            "startsAt": "2024-03-27T11:24:00Z",
+                            "endsAt": "2024-03-27T14:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-27T11:30:00Z",
+                            "endsAt": "2024-03-27T12:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19501200,
+                            "finishSeconds": 19507320,
+                            "startsAt": "2024-03-27T11:42:00Z",
+                            "endsAt": "2024-03-27T13:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1725480,
+                            "finishSeconds": 1727280,
+                            "startsAt": "2024-03-27T12:36:00Z",
+                            "endsAt": "2024-03-27T13:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 231840,
+                            "finishSeconds": 231840,
+                            "startsAt": "2024-03-27T13:24:00Z",
+                            "endsAt": "2024-03-27T13:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird TD2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-27T13:30:00Z",
+                            "endsAt": "2024-03-27T15:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-27T14:00:00Z",
+                            "endsAt": "2024-03-27T15:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1727280,
+                            "finishSeconds": 1734120,
+                            "startsAt": "2024-03-27T14:00:00Z",
+                            "endsAt": "2024-03-27T15:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-27T15:24:00Z",
+                            "endsAt": "2024-03-27T15:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session F"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-27T15:24:00Z",
+                            "endsAt": "2024-03-27T15:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20854440,
+                            "finishSeconds": 20857320,
+                            "startsAt": "2024-03-27T15:24:00Z",
+                            "endsAt": "2024-03-27T16:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19235520,
+                            "finishSeconds": 19241640,
+                            "startsAt": "2024-03-27T15:24:00Z",
+                            "endsAt": "2024-03-27T17:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-27T16:00:00Z",
+                            "endsAt": "2024-03-27T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-27T16:36:00Z",
+                            "endsAt": "2024-03-27T16:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20857320,
+                            "finishSeconds": 20862720,
+                            "startsAt": "2024-03-27T17:00:00Z",
+                            "endsAt": "2024-03-27T18:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1734120,
+                            "finishSeconds": 1737360,
+                            "startsAt": "2024-03-27T17:00:00Z",
+                            "endsAt": "2024-03-27T17:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24815160,
+                            "finishSeconds": 24820920,
+                            "startsAt": "2024-03-27T18:24:00Z",
+                            "endsAt": "2024-03-27T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44376840,
+                            "finishSeconds": 44381520,
+                            "startsAt": "2024-03-27T18:00:00Z",
+                            "endsAt": "2024-03-27T19:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1737360,
+                            "finishSeconds": 1740600,
+                            "startsAt": "2024-03-27T18:00:00Z",
+                            "endsAt": "2024-03-27T18:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-27T19:00:00Z",
+                            "endsAt": "2024-03-27T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1742400,
+                            "finishSeconds": 1744920,
+                            "startsAt": "2024-03-27T19:06:00Z",
+                            "endsAt": "2024-03-27T19:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19241640,
+                            "finishSeconds": 19245600,
+                            "startsAt": "2024-03-27T19:54:00Z",
+                            "endsAt": "2024-03-27T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1740600,
+                            "finishSeconds": 1742400,
+                            "startsAt": "2024-03-27T19:54:00Z",
+                            "endsAt": "2024-03-27T20:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19635480,
+                            "finishSeconds": 19639800,
+                            "startsAt": "2024-03-27T20:00:00Z",
+                            "endsAt": "2024-03-27T21:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42393240,
+                            "finishSeconds": 42394320,
+                            "startsAt": "2024-03-27T20:06:00Z",
+                            "endsAt": "2024-03-27T20:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44381520,
+                            "finishSeconds": 44382600,
+                            "startsAt": "2024-03-27T20:06:00Z",
+                            "endsAt": "2024-03-27T20:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-27T20:00:00Z",
+                            "endsAt": "2024-03-27T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-27T21:00:00Z",
+                            "endsAt": "2024-03-27T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1744920,
+                            "finishSeconds": 1747800,
+                            "startsAt": "2024-03-27T21:30:00Z",
+                            "endsAt": "2024-03-27T22:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19639800,
+                            "finishSeconds": 19639800,
+                            "startsAt": "2024-03-27T22:00:00Z",
+                            "endsAt": "2024-03-27T22:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-27T23:00:00Z",
+                            "endsAt": "2024-03-27T23:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T11:00:00Z",
+                            "endsAt": "2024-03-28T11:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1747800,
+                            "finishSeconds": 1750680,
+                            "startsAt": "2024-03-28T11:00:00Z",
+                            "endsAt": "2024-03-28T11:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T12:00:00Z",
+                            "endsAt": "2024-03-28T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T13:00:00Z",
+                            "endsAt": "2024-03-28T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session D"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T13:06:00Z",
+                            "endsAt": "2024-03-28T13:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1750680,
+                            "finishSeconds": 1756800,
+                            "startsAt": "2024-03-28T14:00:00Z",
+                            "endsAt": "2024-03-28T15:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T14:00:00Z",
+                            "endsAt": "2024-03-28T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T15:00:00Z",
+                            "endsAt": "2024-03-28T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T15:00:00Z",
+                            "endsAt": "2024-03-28T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1756800,
+                            "finishSeconds": 1762560,
+                            "startsAt": "2024-03-28T17:18:00Z",
+                            "endsAt": "2024-03-28T18:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T16:00:00Z",
+                            "endsAt": "2024-03-28T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T18:18:00Z",
+                            "endsAt": "2024-03-28T18:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T17:18:00Z",
+                            "endsAt": "2024-03-28T18:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T18:12:00Z",
+                            "endsAt": "2024-03-28T18:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T18:00:00Z",
+                            "endsAt": "2024-03-28T18:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session D"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T16:30:00Z",
+                            "endsAt": "2024-03-28T18:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T19:00:00Z",
+                            "endsAt": "2024-03-28T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 2"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T19:00:00Z",
+                            "endsAt": "2024-03-28T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1762560,
+                            "finishSeconds": 1765800,
+                            "startsAt": "2024-03-28T20:54:00Z",
+                            "endsAt": "2024-03-28T21:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T20:00:00Z",
+                            "endsAt": "2024-03-28T20:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-28T21:00:00Z",
+                            "endsAt": "2024-03-28T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {},
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1765800,
+                            "finishSeconds": 1771200,
+                            "startsAt": "2024-03-29T10:42:00Z",
+                            "endsAt": "2024-03-29T12:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19507320,
+                            "finishSeconds": 19514520,
+                            "startsAt": "2024-03-29T11:00:00Z",
+                            "endsAt": "2024-03-29T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-29T11:30:00Z",
+                            "endsAt": "2024-03-29T11:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1780200,
+                            "finishSeconds": 1787040,
+                            "startsAt": "2024-03-29T12:06:00Z",
+                            "endsAt": "2024-03-29T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19639800,
+                            "finishSeconds": 19646640,
+                            "startsAt": "2024-03-29T11:36:00Z",
+                            "endsAt": "2024-03-29T13:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-29T13:00:00Z",
+                            "endsAt": "2024-03-29T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1771200,
+                            "finishSeconds": 1776960,
+                            "startsAt": "2024-03-29T13:24:00Z",
+                            "endsAt": "2024-03-29T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-29T14:00:00Z",
+                            "endsAt": "2024-03-29T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44382600,
+                            "finishSeconds": 44387640,
+                            "startsAt": "2024-03-29T13:36:00Z",
+                            "endsAt": "2024-03-29T15:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42394320,
+                            "finishSeconds": 42397920,
+                            "startsAt": "2024-03-29T14:12:00Z",
+                            "endsAt": "2024-03-29T15:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19646640,
+                            "finishSeconds": 19650600,
+                            "startsAt": "2024-03-29T14:12:00Z",
+                            "endsAt": "2024-03-29T15:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-29T16:00:00Z",
+                            "endsAt": "2024-03-29T16:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24820920,
+                            "finishSeconds": 24825600,
+                            "startsAt": "2024-03-29T15:06:00Z",
+                            "endsAt": "2024-03-29T16:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19514520,
+                            "finishSeconds": 19522800,
+                            "startsAt": "2024-03-29T15:00:00Z",
+                            "endsAt": "2024-03-29T17:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1776960,
+                            "finishSeconds": 1781640,
+                            "startsAt": "2024-03-29T15:18:00Z",
+                            "endsAt": "2024-03-29T16:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44387640,
+                            "finishSeconds": 44395200,
+                            "startsAt": "2024-03-29T16:00:00Z",
+                            "endsAt": "2024-03-29T18:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42397920,
+                            "finishSeconds": 42401880,
+                            "startsAt": "2024-03-29T16:06:00Z",
+                            "endsAt": "2024-03-29T17:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19650600,
+                            "finishSeconds": 19656360,
+                            "startsAt": "2024-03-29T17:06:00Z",
+                            "endsAt": "2024-03-29T18:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1787040,
+                            "finishSeconds": 1794960,
+                            "startsAt": "2024-03-29T17:06:00Z",
+                            "endsAt": "2024-03-29T19:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24825600,
+                            "finishSeconds": 24830640,
+                            "startsAt": "2024-03-29T17:06:00Z",
+                            "endsAt": "2024-03-29T18:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20874600,
+                            "finishSeconds": 20877120,
+                            "startsAt": "2024-03-29T17:06:00Z",
+                            "endsAt": "2024-03-29T17:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-29T17:06:00Z",
+                            "endsAt": "2024-03-29T17:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42401880,
+                            "finishSeconds": 42405840,
+                            "startsAt": "2024-03-29T19:00:00Z",
+                            "endsAt": "2024-03-29T20:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-29T18:36:00Z",
+                            "endsAt": "2024-03-29T18:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19656360,
+                            "finishSeconds": 19661400,
+                            "startsAt": "2024-03-29T19:18:00Z",
+                            "endsAt": "2024-03-29T20:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20877120,
+                            "finishSeconds": 20882880,
+                            "startsAt": "2024-03-29T19:18:00Z",
+                            "endsAt": "2024-03-29T20:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N345FH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19522800,
+                            "finishSeconds": 19528200,
+                            "startsAt": "2024-03-29T19:18:00Z",
+                            "endsAt": "2024-03-29T20:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-29T19:00:00Z",
+                            "endsAt": "2024-03-29T19:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session A"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session A"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44395200,
+                            "finishSeconds": 44402760,
+                            "startsAt": "2024-03-29T19:06:00Z",
+                            "endsAt": "2024-03-29T21:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1794960,
+                            "finishSeconds": 1807920,
+                            "startsAt": "2024-03-29T19:42:00Z",
+                            "endsAt": "2024-03-29T23:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42405840,
+                            "finishSeconds": 42414120,
+                            "startsAt": "2024-03-29T20:12:00Z",
+                            "endsAt": "2024-03-29T22:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1781640,
+                            "finishSeconds": 1784160,
+                            "startsAt": "2024-03-29T19:54:00Z",
+                            "endsAt": "2024-03-29T20:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19247040,
+                            "finishSeconds": 19252800,
+                            "startsAt": "2024-03-29T21:00:00Z",
+                            "endsAt": "2024-03-29T22:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19661400,
+                            "finishSeconds": 19667880,
+                            "startsAt": "2024-03-29T21:24:00Z",
+                            "endsAt": "2024-03-29T23:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24830640,
+                            "finishSeconds": 24836760,
+                            "startsAt": "2024-03-29T21:00:00Z",
+                            "endsAt": "2024-03-29T22:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {},
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1784160,
+                            "finishSeconds": 1788480,
+                            "startsAt": "2024-03-29T22:00:00Z",
+                            "endsAt": "2024-03-29T23:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird TD2"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-30T00:00:00Z",
+                            "endsAt": "2024-03-30T00:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N345FH"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-30T11:00:00Z",
+                            "endsAt": "2024-03-30T13:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19528200,
+                            "finishSeconds": 19533240,
+                            "startsAt": "2024-03-30T11:00:00Z",
+                            "endsAt": "2024-03-30T12:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1788480,
+                            "finishSeconds": 1792800,
+                            "startsAt": "2024-03-30T12:00:00Z",
+                            "endsAt": "2024-03-30T13:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19667880,
+                            "finishSeconds": 19673280,
+                            "startsAt": "2024-03-30T12:00:00Z",
+                            "endsAt": "2024-03-30T13:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44402760,
+                            "finishSeconds": 44404200,
+                            "startsAt": "2024-03-30T13:00:00Z",
+                            "endsAt": "2024-03-30T13:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24836760,
+                            "finishSeconds": 24841440,
+                            "startsAt": "2024-03-30T13:00:00Z",
+                            "endsAt": "2024-03-30T14:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42414120,
+                            "finishSeconds": 42417720,
+                            "startsAt": "2024-03-30T13:00:00Z",
+                            "endsAt": "2024-03-30T14:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19252800,
+                            "finishSeconds": 19254600,
+                            "startsAt": "2024-03-30T13:00:00Z",
+                            "endsAt": "2024-03-30T13:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55294"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-30T14:00:00Z",
+                            "endsAt": "2024-03-30T14:42:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1807920,
+                            "finishSeconds": 1812600,
+                            "startsAt": "2024-03-30T14:00:00Z",
+                            "endsAt": "2024-03-30T15:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24841440,
+                            "finishSeconds": 24851880,
+                            "startsAt": "2024-03-30T15:00:00Z",
+                            "endsAt": "2024-03-30T17:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19533240,
+                            "finishSeconds": 19538640,
+                            "startsAt": "2024-03-30T15:00:00Z",
+                            "endsAt": "2024-03-30T16:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-30T15:00:00Z",
+                            "endsAt": "2024-03-30T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19673280,
+                            "finishSeconds": 19677960,
+                            "startsAt": "2024-03-30T15:00:00Z",
+                            "endsAt": "2024-03-30T16:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42417720,
+                            "finishSeconds": 42421320,
+                            "startsAt": "2024-03-30T16:00:00Z",
+                            "endsAt": "2024-03-30T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "Ground Trainer 2"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1812600,
+                            "finishSeconds": 1818000,
+                            "startsAt": "2024-03-30T17:00:00Z",
+                            "endsAt": "2024-03-30T18:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19538640,
+                            "finishSeconds": 19543320,
+                            "startsAt": "2024-03-30T17:00:00Z",
+                            "endsAt": "2024-03-30T18:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44404200,
+                            "finishSeconds": 44409600,
+                            "startsAt": "2024-03-30T17:00:00Z",
+                            "endsAt": "2024-03-30T18:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {},
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-30T17:00:00Z",
+                            "endsAt": "2024-03-30T17:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Trainer 1"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Trainer 1"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-30T17:00:00Z",
+                            "endsAt": "2024-03-30T18:18:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session C"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session C"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44409600,
+                            "finishSeconds": 44416800,
+                            "startsAt": "2024-03-30T19:00:00Z",
+                            "endsAt": "2024-03-30T21:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N55294"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19543320,
+                            "finishSeconds": 19548720,
+                            "startsAt": "2024-03-30T19:00:00Z",
+                            "endsAt": "2024-03-30T20:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19677960,
+                            "finishSeconds": 19683000,
+                            "startsAt": "2024-03-30T19:00:00Z",
+                            "endsAt": "2024-03-30T20:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42421320,
+                            "finishSeconds": 42425640,
+                            "startsAt": "2024-03-30T19:00:00Z",
+                            "endsAt": "2024-03-30T20:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1792800,
+                            "finishSeconds": 1796040,
+                            "startsAt": "2024-03-30T19:00:00Z",
+                            "endsAt": "2024-03-30T19:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1796040,
+                            "finishSeconds": 1797480,
+                            "startsAt": "2024-03-30T21:00:00Z",
+                            "endsAt": "2024-03-30T21:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 24851880,
+                            "finishSeconds": 24855840,
+                            "startsAt": "2024-03-30T21:00:00Z",
+                            "endsAt": "2024-03-30T22:06:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N422CB"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N422CB"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 42425640,
+                            "finishSeconds": 42431400,
+                            "startsAt": "2024-03-30T21:00:00Z",
+                            "endsAt": "2024-03-30T22:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N945MC"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N945MC"
+            }
+        },
+        {
+            "registration": null,
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19548720,
+                            "finishSeconds": 19555560,
+                            "startsAt": "2024-03-30T21:00:00Z",
+                            "endsAt": "2024-03-30T22:54:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19683000,
+                            "finishSeconds": 19698120,
+                            "startsAt": "2024-03-30T21:00:00Z",
+                            "endsAt": "2024-03-31T01:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 1818000,
+                            "finishSeconds": 1826640,
+                            "startsAt": "2024-03-30T21:00:00Z",
+                            "endsAt": "2024-03-30T23:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 44416800,
+                            "finishSeconds": 44426880,
+                            "startsAt": "2024-03-30T22:00:00Z",
+                            "endsAt": "2024-03-31T00:48:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N62770"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N62770"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 0,
+                            "finishSeconds": null,
+                            "startsAt": "2024-03-30T23:00:00Z",
+                            "endsAt": "2024-03-30T23:00:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Ground Session B"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Ground Session B"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 19555560,
+                            "finishSeconds": 19560240,
+                            "startsAt": "2024-03-31T01:18:00Z",
+                            "endsAt": "2024-03-31T02:36:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55296"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55296"
+            }
+        },
+        {},
         {
             "registration": {
                 "flights": [
@@ -40539,10 +65262,71 @@
             "aircraft": {
                 "callSign": "N422CB"
             }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 20547000,
+                            "finishSeconds": 20552040,
+                            "startsAt": "2024-06-01T11:00:00Z",
+                            "endsAt": "2024-06-01T12:24:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N55297"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N55297"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 2440800,
+                            "finishSeconds": 2446200,
+                            "startsAt": "2024-06-01T11:00:00Z",
+                            "endsAt": "2024-06-01T12:30:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "N977TH"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "N977TH"
+            }
+        },
+        {
+            "registration": {
+                "flights": [
+                    {
+                        "primaryLog": {
+                            "startSeconds": 2781360,
+                            "finishSeconds": 2785680,
+                            "startsAt": "2024-06-01T11:00:00Z",
+                            "endsAt": "2024-06-01T12:12:00Z"
+                        },
+                        "aircraft": {
+                            "callSign": "Redbird FMX AATD"
+                        }
+                    }
+                ]
+            },
+            "aircraft": {
+                "callSign": "Redbird FMX AATD"
+            }
         }
     ]
+        
 
-    //console.log(dataArray);
+    console.log(dataArray);
 
     const currentDate = new Date();
     let instructorList = [];

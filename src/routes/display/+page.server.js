@@ -55,7 +55,7 @@ const query = `query Query($all: Boolean, $after: String, $to: DateTime, $from: 
 
 let currentDate = new Date();
 let startDate = new Date(currentDate);
-startDate.setDate(startDate.getDate() - 62);
+startDate.setDate(startDate.getDate() - 100);
 
 //console.log(currentDate);
 //const pastDate = new Date(); 
@@ -117,7 +117,7 @@ export const load = async () => {
             console.log("hello"); 
             console.log(data);
 
-            await new Promise(resolve => setTimeout(resolve, 2000));
+            await new Promise(resolve => setTimeout(resolve, 5000));
 
             try {
 
