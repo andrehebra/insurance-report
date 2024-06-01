@@ -116,6 +116,9 @@ export const load = async () => {
             data = await response.json();
             console.log("hello"); 
             console.log(data);
+
+            await new Promise(resolve => setTimeout(resolve, 2000));
+
             try {
 
                 for (let i = 0; i < data.data.bookings.nodes.length; i++) {
