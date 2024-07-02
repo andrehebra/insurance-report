@@ -65,6 +65,8 @@ startDate.setDate(startDate.getDate() - 100);
 const currentISODate = currentDate.toISOString().slice(0, -5);
 const startISODate = startDate.toISOString().slice(0, -5);
 
+let i = 0;
+
 export const load = async () => {
     console.log('Load function called in page.server.js');
     try {
@@ -114,10 +116,10 @@ export const load = async () => {
             
 
             data = await response.json();
-            console.log("hello"); 
+            console.log(i++); 
             console.log(data);
 
-            await new Promise(resolve => setTimeout(resolve, 5000));
+            await new Promise(resolve => setTimeout(resolve, 2000));
 
             try {
 
@@ -140,4 +142,4 @@ export const load = async () => {
         console.error(`Error in load function :( ${error}`);
     } 
 }
-*/
+    */
